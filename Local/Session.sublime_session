@@ -1,0 +1,779 @@
+{
+	"folder_history":
+	[
+		"/C/Users/aLvie/Desktop/study/library",
+		"/C/Users/aLvie/Desktop/Api",
+		"/C/Users/aLvie/Desktop/blog_1",
+		"/C/xampp/htdocs/angularjs_chat",
+		"/C/Users/aLvie/Desktop/chat system/angularjs_chat"
+	],
+	"last_version": 3176,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tracki",
+						"tracking_no"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ap",
+						"apiKey"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/C/Users/aLvie/Desktop/blog_1/app/Services/JamesApiService.php",
+				"/C/Users/aLvie/Desktop/blog_1/.env",
+				"/C/Users/aLvie/Desktop/blog_1/app/Helpers/ServiceHelper.php",
+				"/C/Users/aLvie/Desktop/blog_1/composer.json",
+				"/C/Users/aLvie/Desktop/blog_1/app/Post.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Http/Kernel.php",
+				"/C/Users/aLvie/Desktop/blog_1/routes/api.php",
+				"/C/Users/aLvie/Desktop/blog_1/routes/web.php",
+				"/C/Users/aLvie/Desktop/learning Notes",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/503.blade.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/laravel/framework/src/Illuminate/Auth/Passwords/TokenRepositoryInterface.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/symfony/routing/Tests/Fixtures/AnnotationFixtures/RouteWithPrefixController.php",
+				"/C/Users/aLvie/Desktop/blog_1/config/app.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Comment.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Providers/AppServiceProvider.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/phpunit/phpunit/tests/end-to-end/output-isolation.phpt",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php",
+				"/C/xampp/php/php.ini",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_17_082204_create_posts_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_090147_create_comments_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_17_073215_create_post_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/mockery/mockery/docs/cookbook/default_expectations.rst",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_091452_post.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_084027_create_comments_table.php",
+				"/C/Users/aLvie/Desktop/Api/app/routes/note_routes.js",
+				"/C/Users/aLvie/Desktop/Api/server.js",
+				"/C/Users/aLvie/Desktop/Api/app/routes/index.js",
+				"/C/Users/aLvie/Desktop/Api/config/db.js",
+				"/C/Users/aLvie/Desktop/Api/node_modules/mongodb-core/lib/sdam/server_description.js",
+				"/C/Users/aLvie/Desktop/Api/package.json",
+				"/C/xampp/htdocs/angularjs_chat/app/index.html",
+				"/C/Users/aLvie/Desktop/chat system/angularjs_chat/app/index.html"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"autoload",
+					"public",
+					"\t\t\t\t",
+					"'I am james'",
+					"home",
+					"homestea",
+					"home",
+					"mysql",
+					"ext"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"routewe",
+						"routes\\web.php"
+					],
+					[
+						"weeoe503",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\views\\503.blade.php"
+					],
+					[
+						"apphttpkern",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"post",
+						"app\\Post.php"
+					],
+					[
+						"RepositoryInterface",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Passwords\\TokenRepositoryInterface.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"routweb",
+						"routes\\web.php"
+					],
+					[
+						"servicehe",
+						"app\\Helpers\\ServiceHelper.php"
+					],
+					[
+						"routwe",
+						"vendor\\symfony\\routing\\Tests\\Fixtures\\AnnotationFixtures\\RouteWithPrefixController.php"
+					],
+					[
+						"servicehel",
+						"app\\Helpers\\ServiceHelper.php"
+					],
+					[
+						"routapi",
+						"routes\\api.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"",
+						"C:\\Users\\aLvie\\Desktop\\learning Notes"
+					],
+					[
+						"reoutapi",
+						"vendor\\phpunit\\phpunit\\tests\\end-to-end\\output-isolation.phpt"
+					],
+					[
+						"jame",
+						"app\\Services\\JamesApiService.php"
+					],
+					[
+						"rouapi",
+						"routes\\api.php"
+					],
+					[
+						"routeweapi",
+						"vendor\\symfony\\routing\\Tests\\Fixtures\\with_define_path_variable.php"
+					],
+					[
+						"app",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"AppServiceProvider",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"appcomme",
+						"app\\Comment.php"
+					],
+					[
+						"appost",
+						"app\\Post.php"
+					],
+					[
+						"appcomment",
+						"app\\Comment.php"
+					],
+					[
+						"apppost",
+						"app\\Post.php"
+					],
+					[
+						"appser",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"migratcreatecomment",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"modelpost",
+						"vendor\\mockery\\mockery\\docs\\cookbook\\default_expectations.rst"
+					],
+					[
+						"migracreatepost",
+						"database\\migrations\\2018_11_17_073215_create_post_table.php"
+					],
+					[
+						"createComme",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"migrapost",
+						"database\\migrations\\2018_11_15_091452_post.php"
+					],
+					[
+						"comment.php",
+						"app\\Comment.php"
+					],
+					[
+						"migracomment",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"appservo",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"comment",
+						"app\\Comment.php"
+					],
+					[
+						"migrationcomme",
+						"database\\migrations\\2018_11_15_084027_create_comments_table.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"routeweb",
+						"routes\\web.php"
+					],
+					[
+						"server.js",
+						"server.js"
+					],
+					[
+						"servi",
+						"node_modules\\mongodb-core\\lib\\sdam\\server_description.js"
+					],
+					[
+						"note",
+						"app\\routes\\note_routes.js"
+					],
+					[
+						"serv",
+						"server.js"
+					],
+					[
+						"note_rou",
+						"app\\routes\\note_routes.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"tracki",
+						"tracking_no"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ap",
+						"apiKey"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/aLvie/Desktop/study/library",
+				"/C/Users/aLvie/Desktop/study/library/node_modules"
+			],
+			"file_history":
+			[
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/aLvie/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/C/Users/aLvie/Desktop/blog_1/app/Services/JamesApiService.php",
+				"/C/Users/aLvie/Desktop/blog_1/.env",
+				"/C/Users/aLvie/Desktop/blog_1/app/Helpers/ServiceHelper.php",
+				"/C/Users/aLvie/Desktop/blog_1/composer.json",
+				"/C/Users/aLvie/Desktop/blog_1/app/Post.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Http/Kernel.php",
+				"/C/Users/aLvie/Desktop/blog_1/routes/api.php",
+				"/C/Users/aLvie/Desktop/blog_1/routes/web.php",
+				"/C/Users/aLvie/Desktop/learning Notes",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/503.blade.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/laravel/framework/src/Illuminate/Auth/Passwords/TokenRepositoryInterface.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/symfony/routing/Tests/Fixtures/AnnotationFixtures/RouteWithPrefixController.php",
+				"/C/Users/aLvie/Desktop/blog_1/config/app.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Comment.php",
+				"/C/Users/aLvie/Desktop/blog_1/app/Providers/AppServiceProvider.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/phpunit/phpunit/tests/end-to-end/output-isolation.phpt",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/symfony/routing/Tests/Fixtures/with_define_path_variable.php",
+				"/C/xampp/php/php.ini",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_17_082204_create_posts_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_090147_create_comments_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_17_073215_create_post_table.php",
+				"/C/Users/aLvie/Desktop/blog_1/vendor/mockery/mockery/docs/cookbook/default_expectations.rst",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_091452_post.php",
+				"/C/Users/aLvie/Desktop/blog_1/database/migrations/2018_11_15_084027_create_comments_table.php",
+				"/C/Users/aLvie/Desktop/Api/app/routes/note_routes.js",
+				"/C/Users/aLvie/Desktop/Api/server.js",
+				"/C/Users/aLvie/Desktop/Api/app/routes/index.js",
+				"/C/Users/aLvie/Desktop/Api/config/db.js",
+				"/C/Users/aLvie/Desktop/Api/node_modules/mongodb-core/lib/sdam/server_description.js",
+				"/C/Users/aLvie/Desktop/Api/package.json",
+				"/C/xampp/htdocs/angularjs_chat/app/index.html",
+				"/C/Users/aLvie/Desktop/chat system/angularjs_chat/app/index.html"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"autoload",
+					"public",
+					"\t\t\t\t",
+					"'I am james'",
+					"home",
+					"homestea",
+					"home",
+					"mysql",
+					"ext"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\aLvie\\Desktop\\study\\library"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,695,156,156,812",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"routewe",
+						"routes\\web.php"
+					],
+					[
+						"weeoe503",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\views\\503.blade.php"
+					],
+					[
+						"apphttpkern",
+						"app\\Http\\Kernel.php"
+					],
+					[
+						"post",
+						"app\\Post.php"
+					],
+					[
+						"RepositoryInterface",
+						"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Passwords\\TokenRepositoryInterface.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"routweb",
+						"routes\\web.php"
+					],
+					[
+						"servicehe",
+						"app\\Helpers\\ServiceHelper.php"
+					],
+					[
+						"routwe",
+						"vendor\\symfony\\routing\\Tests\\Fixtures\\AnnotationFixtures\\RouteWithPrefixController.php"
+					],
+					[
+						"servicehel",
+						"app\\Helpers\\ServiceHelper.php"
+					],
+					[
+						"routapi",
+						"routes\\api.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"",
+						"C:\\Users\\aLvie\\Desktop\\learning Notes"
+					],
+					[
+						"reoutapi",
+						"vendor\\phpunit\\phpunit\\tests\\end-to-end\\output-isolation.phpt"
+					],
+					[
+						"jame",
+						"app\\Services\\JamesApiService.php"
+					],
+					[
+						"rouapi",
+						"routes\\api.php"
+					],
+					[
+						"routeweapi",
+						"vendor\\symfony\\routing\\Tests\\Fixtures\\with_define_path_variable.php"
+					],
+					[
+						"app",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"AppServiceProvider",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"appcomme",
+						"app\\Comment.php"
+					],
+					[
+						"appost",
+						"app\\Post.php"
+					],
+					[
+						"appcomment",
+						"app\\Comment.php"
+					],
+					[
+						"apppost",
+						"app\\Post.php"
+					],
+					[
+						"appser",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"migratcreatecomment",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"modelpost",
+						"vendor\\mockery\\mockery\\docs\\cookbook\\default_expectations.rst"
+					],
+					[
+						"migracreatepost",
+						"database\\migrations\\2018_11_17_073215_create_post_table.php"
+					],
+					[
+						"createComme",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"migrapost",
+						"database\\migrations\\2018_11_15_091452_post.php"
+					],
+					[
+						"comment.php",
+						"app\\Comment.php"
+					],
+					[
+						"migracomment",
+						"database\\migrations\\2018_11_15_090147_create_comments_table.php"
+					],
+					[
+						"appservo",
+						"app\\Providers\\AppServiceProvider.php"
+					],
+					[
+						"comment",
+						"app\\Comment.php"
+					],
+					[
+						"migrationcomme",
+						"database\\migrations\\2018_11_15_084027_create_comments_table.php"
+					],
+					[
+						".en",
+						".env"
+					],
+					[
+						"routeweb",
+						"routes\\web.php"
+					],
+					[
+						"server.js",
+						"server.js"
+					],
+					[
+						"servi",
+						"node_modules\\mongodb-core\\lib\\sdam\\server_description.js"
+					],
+					[
+						"note",
+						"app\\routes\\note_routes.js"
+					],
+					[
+						"serv",
+						"server.js"
+					],
+					[
+						"note_rou",
+						"app\\routes\\note_routes.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 249.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
