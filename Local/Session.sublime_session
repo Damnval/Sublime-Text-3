@@ -400,6 +400,14 @@
 				"selected_items":
 				[
 					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
 						"package insta",
 						"Package Control: Install Package"
 					]
