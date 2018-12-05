@@ -5,7 +5,7 @@
 		"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be"
 	],
 	"last_version": 3176,
-	"last_window_id": 14,
+	"last_window_id": 16,
 	"log_indexing": false,
 	"settings":
 	{
@@ -137,6 +137,10 @@
 				"selected_items":
 				[
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						":w",
 						":w - Save"
 					],
@@ -185,6 +189,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
+				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/css/app.css",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/apiUrl.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104929_create_billings_table.php",
@@ -197,7 +203,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/fintechHelper.service.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/PointsController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/ScissorsTableSeeder.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RentalScissorAttributesSeeder.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/faq/manage/manage.html",
@@ -239,7 +244,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.service.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/how to fix or set up staging server Togear.txt",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ComposerServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/.env",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.controller.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.html",
@@ -459,6 +463,18 @@
 				"selected_items":
 				[
 					[
+						"app.en",
+						"togear-be\\app.env"
+					],
+					[
+						"translacon",
+						"togear-fe\\src\\app\\constants\\translation.constant.js"
+					],
+					[
+						"userseeder",
+						"togear-be\\database\\seeds\\UserAdminSeeder.php"
+					],
+					[
 						"apiur",
 						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
 					],
@@ -477,10 +493,6 @@
 					[
 						"assetcssapp",
 						"togear-fe\\src\\assets\\css\\app.css"
-					],
-					[
-						"app.en",
-						"togear-be\\app.env"
 					],
 					[
 						"app.",
@@ -961,14 +973,6 @@
 					[
 						"dashboaracont",
 						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
-					],
-					[
-						"dashboarco",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
-					],
-					[
-						"dashcontroller",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
 					]
 				],
 				"width": 0.0
@@ -1141,10 +1145,31 @@
 					}
 				},
 				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserAdminSeeder.php",
+					"settings":
+					{
+						"buffer_size": 7616,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
 					"settings":
 					{
 						"buffer_size": 2815,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "(function () {\n    'use strict';\n\n    angular\n        .module('fintechSpa')\n        // .constant('mobileSettings', function() {\n        //     var $this = this;\n        //\n        //     this.isNotMobile = (function () {\n        //         var check = false;\n        //         (function (a) {\n        //             if (/(android|bb\\d+|meego).+mobile|avantgo|bada\\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\\-(n|u)|c55\\/|capi|ccwa|cdm\\-|cell|chtm|cldc|cmd\\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\\-s|devi|dica|dmob|do(c|p)o|ds(12|\\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\\-|_)|g1 u|g560|gene|gf\\-5|g\\-mo|go(\\.w|od)|gr(ad|un)|haie|hcit|hd\\-(m|p|t)|hei\\-|hi(pt|ta)|hp( i|ip)|hs\\-c|ht(c(\\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\\-(20|go|ma)|i230|iac( |\\-|\\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\\/)|klon|kpt |kwc\\-|kyo(c|k)|le(no|xi)|lg( g|\\/(k|l|u)|50|54|\\-[a-w])|libw|lynx|m1\\-w|m3ga|m50\\/|ma(te|ui|xo)|mc(01|21|ca)|m\\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\\-2|po(ck|rt|se)|prox|psio|pt\\-g|qa\\-a|qc(07|12|21|32|60|\\-[2-7]|i\\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\\-|oo|p\\-)|sdk\\/|se(c(\\-|0|1)|47|mc|nd|ri)|sgh\\-|shar|sie(\\-|m)|sk\\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\\-|v\\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\\-|tdg\\-|tel(i|m)|tim\\-|t\\-mo|to(pl|sh)|ts(70|m\\-|m3|m5)|tx\\-9|up(\\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\\-|your|zeto|zte\\-/i.test(a.substr(0, 4))) { check = true; }\n        //         })(navigator.userAgent || navigator.vendor || window.opera);\n        //         return !check;\n        //     })();\n        //\n        //     this.$get = function() {\n        //         return $this;\n        //     };\n        // })\n        .config(routesConfig);\n\n    /* @ngInject */\n    function routesConfig($stateProvider, $urlRouterProvider, $locationProvider) {\n\n        $locationProvider.html5Mode({\n            enabled: true,\n            requireBase: true,\n            rewriteLinks: true\n        });\n        // $locationProvider.hashPrefix('');\n        $urlRouterProvider.otherwise('/');  \n\n        $stateProvider\n           .state('user', {\n                abstract: true,\n                templateUrl:  'app/layouts/togear.html'\n            })\n            .state('user.index', {\n                url: '/',\n                views: {\n                    frontend: {\n                        controller: 'clientLandingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/landing/landing.html'\n                    }\n                }\n            })\n            .state('user.help', {\n                url: '/help',\n                views: {\n                    frontend: {\n                        controller: 'faqUserController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/faq/faqUser.html'\n                    }\n                }\n            })\n            .state('user.aboutTogear', {\n                url: '/about-togear',\n                views: {\n                    frontend: {\n                        templateUrl: 'app/modules/user/aboutTogear/aboutTogear.html'\n                    }\n                }\n            })\n            .state('user.searchSharpener', {\n                url: '/search-sharpener',\n                views: {\n                    frontend: {\n                        controller: 'searchSharpenerController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/searchSharpener/search-sharpener.html'\n                    }\n                }\n            })\n            .state('user.contact', {\n                url: '/contact',\n                views: {\n                    frontend: {\n                        controller: 'contactUsController as contact',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/contact/contact.html'\n                    }\n                },\n                data: {\n                    pageTitle: 'お問い合わせ内容入力',\n                    pageDescription: 'ラボショアのお問い合わせページです。お問い合わせ内容をご登録いただけます',\n                    pageKeywords: [\n                        'ラボショア',\n                        'クラウドソーシングサービス',\n                        'クラウドソーシング',\n                        '企業様を結びつけるオフショア開発',\n                        'オフショア開発',\n                        '開発コスト削減',\n                        '開発コスト削減',\n                        '低コスト短納期での開発',\n                        'お問い合わせ内容入力'\n                    ]\n                }\n            })\n            .state('user.thankyou', {\n                url: '/contact/thank-you',\n                views: {\n                    frontend: {\n                        templateUrl: 'app/modules/user/contact/thankyou.html'\n                    }\n                }\n            })\n            .state('user.resetPassword', {\n                url: '/reset-password',\n                views: {\n                    frontend: {\n                        controller: 'resetPasswordController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/resetPassword/resetPassword.html'\n                    }\n                }\n            })\n            .state('user.newPassword', {\n                url: '/new-password/:token',\n                views: {\n                    frontend: {\n                        controller: 'newPasswordController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/newPassword/newPassword.html'\n                    }\n                }\n            })\n            .state('user.expiredToken', {\n                url: '/expired-token',\n                views: {\n                    frontend: {\n                        controller: 'resetPasswordController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/expiredToken/expiredToken.html'\n                    }\n                }\n            })\n            .state('user.hairdresser', {\n                views: {\n                    frontend: {\n                        templateUrl: 'app/modules/user/hairdresser/dashboard/dashboard.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.landing', {\n                url: '/hairdresser',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserDashboardLandingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/dashboard-landing/dashboard-landing.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.edit', {\n                url: '/hairdresser/edit',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserEditorController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/editor/editor.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.view', {\n                url: '/hairdresser/profile',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserViewController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/view/view.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.points', {\n                url: '/hairdresser/points',\n                views: {\n                    dashboard: {\n                        controller: 'pointsHairdresserController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/points/pointsHairdresser/pointsHairdresser.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.redeemAmazon', {\n                url: '/hairdresser/points/amazon',\n                views: {\n                    dashboard: {\n                        controller: 'amazonHairdresserController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/points/amazonHairdresser/amazonHairdresser.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.jobs', {\n                url: '/hairdresser/jobs/',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserJobsAllController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/job/all/all.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.billing', {\n                url: '/hairdresser/billing/',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserBillingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/billing/billing.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.addReview', {\n                url: '/hairdresser/review/add',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserReviewController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/job/review/review.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.progress', {\n                url: '/hairdresser/jobs/in-progress',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserJobsInProgressController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/job/inProgress/inProgress.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.today', {\n                url: '/hairdresser/jobs/today',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserJobsTodayController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/job/today/today.html'\n                    }\n                }\n            })\n            .state('user.bookHairdresser', {\n                url: '/hairdresser/booking',\n                views: {\n                    frontend: {\n                        controller: 'hairdresserUserSharpenerBookingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/booking/hairdresser/bookHairdresser.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.newJob', {\n                url: '/hairdresser/new-job',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserNewBookingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.newJobOrder', {\n                url: '/hairdresser/new-job/order',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserNewOrderController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/order/newOrderHairdresser/newOrderHairdresser.html'\n                    }\n                }\n            })\n            .state('user.hairdresser.specificjob', {\n                url: '/hairdresser/job/:id',\n                views: {\n                    dashboard: {\n                        controller: 'hairdresserUserSpecificJobController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/hairdresser/job/specificJob/specificJob.html'\n                    }\n                }\n            })\n            .state('user.sharpener', {\n                views: {\n                    frontend: {\n                        controller: 'sharpenerDashboardController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/dashboard/dashboard.html'\n                    }\n                }\n            })\n            .state('user.sharpener.landing', {\n                url: '/sharpener',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerDashboardLandingController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/dashboard-landing/dashboard-landing.html'\n                    }\n                }\n            })\n            .state('user.sharpener.edit', {\n                url: '/sharpener/edit',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserEditorController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/editor/editor.html'\n                    }\n                }\n            })\n            .state('user.sharpener.view', {\n                url: '/sharpener/profile',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserViewController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/view/view.html'\n                    }\n                }\n            })\n              .state('user.sharpener.jobs', {\n                url: '/sharpener/jobs',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserJobsAllController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/job/all/all.html'\n                    }\n                }\n            })\n            .state('user.sharpener.progress', {\n                url: '/sharpener/jobs/in-progress',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserJobsInProgressController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/job/inProgress/inProgress.html'\n                    }\n                }\n            })\n            .state('user.sharpener.today', {\n                url: '/sharpener/jobs/today',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserJobsTodayController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/job/today/today.html'\n                    }\n                }\n            })\n            .state('user.sharpener.specificjob', {\n                url: '/sharpener/job/:id',\n                views: {\n                    dashboard: {\n                        controller: 'sharpenerUserSpecificJobController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/sharpener/job/specificJob/specificJob.html'\n                    }\n                }\n            })\n            .state('user.team', {\n                url: '/team/view/:teamid',\n                views: {\n                    frontend: {\n                        controller: 'teamDetailsController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/team/view/team.html'\n                    }\n                },\n                data: {\n                    pageTitle: 'チーム詳細',\n                    pageDescription: 'ラボショアのチーム詳細一覧ページです。チームの詳細情報をご覧になれます。',\n                    pageKeywords: [\n                        'ラボショア',\n                        'クラウドソーシングサービス',\n                        'クラウドソーシング',\n                        '企業様を結びつけるオフショア開発',\n                        'オフショア開発',\n                        '開発コスト削減',\n                        '開発コスト削減',\n                        '低コスト短納期での開発',\n                        'チーム詳細'\n                    ]\n                }\n            })\n            .state('user.aboutOffshore', {\n                url: '/about-offshore',\n                views: {\n                    frontend: {\n                        controller: 'topPageController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/aboutOffshore/aboutOffshore.html'\n                    }\n                },\n                data: {\n                    pageTitle: 'ラボショアのオフショア開発が選ばれる理由',\n                    pageDescription: 'オフショア開発のご紹介です。ラボショアのオフショア開発が選ばれる理由をご覧になれます。',\n                    pageKeywords: [\n                        'ラボショア',\n                        'クラウドソーシングサービス',\n                        'クラウドソーシング',\n                        '企業様を結びつけるオフショア開発',\n                        'オフショア開発',\n                        '開発コスト削減',\n                        '開発コスト削減',\n                        '低コスト短納期での開発',\n                        'ラボショアのオフショア開発が選ばれる理由'\n                    ]\n                }\n            })\n            .state(  'user.login' , {\n                url: '/login',\n                views: {\n                    frontend: {\n                        controller: 'loginPageController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/login/login.html'\n                    }\n                }\n            })\n            .state('user.logout', {\n                url: '/logout',\n                views: {\n                    frontend: {\n                        controller: 'logOutController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/landing/landing.html'\n                    }\n                }\n            })\n            .state('user.verifyEmail', {\n                url: '/verify-email/',\n                views: {\n                    frontend: {\n                        controller: '',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/verifyEmail/verifyEmail.html'\n                    }\n                }\n            })\n            .state('admin', {\n                url: '/admin',\n                abstract: true,\n                templateUrl: 'app/layouts/admin.html',\n                controller: 'teamManageController',\n                controllerAs: 'vm',\n                data: {\n                    bodyClass: 'hold-transition skin-blue sidebar-mini'\n                }\n            })\n            .state('admin.teamCreate', {\n                url: '/team/editor',\n                templateUrl: 'app/modules/admin/team/editor/editor.html',\n                controller: 'teamEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Team Management', sub: [\n                        {name: 'Team Management', url: ''},\n                        {name: 'Add Team', url: ''}\n                    ]\n                }\n            })\n            .state('admin.teamEdit', {\n                url: '/team/editor/:id',\n                templateUrl: 'app/modules/admin/team/editor/editor.html',\n                controller: 'teamEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Team Management', sub: [\n                        {name: 'Team Management', url: 'teamManage'},\n                        {name: 'Edit Team', url: ''}\n                    ]\n                }\n            })\n            .state('admin.teamManage', {\n                url: '/team/manage',\n                templateUrl: 'app/modules/admin/team/manage/manage.html',\n                controller: 'teamManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Team Management', sub: [\n                        {name: 'Team Management', url: ''},\n                        {name: 'Team List', url: ''}\n                    ]\n                }\n            })\n            .state('admin.companyEdit', {\n                url: '/company/editor/:id',\n                templateUrl: 'app/modules/admin/company/editor/editor.html',\n                controller: 'companyEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Company Management', sub: [\n                        {name: 'Company Management', url: 'companyManage'},\n                        {name: 'Edit Company', url: ''}\n                    ]\n                }\n            })\n            .state('admin.companyManage', {\n                url: '/company/manage',\n                templateUrl: 'app/modules/admin/company/manage/manage.html',\n                controller: 'companyManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Company Management', sub: [\n                        {name: 'Company Management', url: ''},\n                        {name: 'Company List', url: ''}\n                    ]\n                }\n            })\n            .state('admin.teamUnapprovedList', {\n                url: '/team/manage-approval',\n                templateUrl: 'app/modules/admin/team/unapproved/manage.html',\n                controller: 'teamUnapprovedController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Team Management', sub: [\n                        {name: 'Team Management', url: ''},\n                        {name: 'Unapproved List', url: ''}\n                    ]\n                }\n            })\n            .state('admin.companyUnapprovedList', {\n                url: '/company/manage-approval',\n                templateUrl: 'app/modules/admin/company/unapproved/manage.html',\n                controller: 'companyUnapprovedController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Company Management', sub: [\n                        {name: 'Company Management', url: ''},\n                        {name: 'Unapproved List', url: ''}\n                    ]\n                }\n            })\n            .state('admin.teamView', {\n                url: '/team/:status/:id',\n                templateUrl: 'app/modules/admin/team/view/view.html',\n                controller: 'teamViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Team Management', sub: [\n                        {name: 'Team Management', url: 'teamManage'},\n                        {name: 'Team Details', url: ''}\n                    ]\n                },\n                params:\n                {\n                    status: '',\n                    id: ''\n                }\n            })\n            .state('admin.companyView', {\n                url: '/company/:status/:id',\n                templateUrl: 'app/modules/admin/company/view/view.html',\n                controller: 'companyViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Company Management', sub: [\n                        {name: 'Company Management', url: 'companyManage'},\n                        {name: 'Company Details', url: ''}\n                    ]\n                },\n                params:\n                {\n                    status: '',\n                    id: ''\n                }\n            })\n            .state('user.registration', {\n                url: '/register/',\n                views: {\n                    frontend: {\n                        controller: 'RegisterController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/register/register.html'\n                    }\n                }\n            })\n            .state('user.bookSharpener', {\n                url: '/sharpener/book/:id',\n                views: {\n                    frontend: {\n                        controller: 'bookSharpenerController',\n                        controllerAs: 'vm',\n                        templateUrl: 'app/modules/user/booking/sharpener/bookSharpener.html'\n                    }\n                }\n            })\n            // Sharpener\n            .state('admin.sharpenerManage', {\n                url: '/sharpener/manage',\n                templateUrl: 'app/modules/admin/sharpener/manage/manage.html',\n                controller: 'sharpenerManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: '研ぎ師管理', sub: [\n                        // {name: '研ぎ師管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.sharpenerEdit', {\n                url: '/sharpener/:id/edit',\n                templateUrl: 'app/modules/admin/sharpener/editor/editor.html',\n                controller: 'sharpenerEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: '研ぎ師管理', sub: [\n                        {name: '研ぎ師管理', url: 'admin.sharpenerManage'},\n                        {name: 'シャープナーを編集', url: ''}\n                    ]\n                }\n            })\n            .state('admin.sharpenerCreate', {\n                url: '/sharpener/create',\n                templateUrl: 'app/modules/admin/sharpener/editor/editor.html',\n                controller: 'sharpenerEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: '研ぎ師管理', sub: [\n                        {name: '研ぎ師管理', url: 'admin.sharpenerManage'},\n                        {name: '研ぎ師を追加', url: ''}\n                    ]\n                }\n            })\n            .state('admin.sharpenerView', {\n                url: '/sharpener/:id',\n                templateUrl: 'app/modules/admin/sharpener/view/view.html',\n                controller: 'sharpenerViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: '研ぎ師管理', sub: [\n                        {name: '研ぎ師管理', url: 'admin.sharpenerManage'},\n                        {name: 'Sharpener Details', url: ''}\n                    ]\n                }\n            })\n            // Hair Dresser\n            .state('admin.hairdresserManage', {\n                url: '/hairdresser/manage',\n                templateUrl: 'app/modules/admin/hairdresser/manage/manage.html',\n                controller: 'hairdresserManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: '美容師管理', sub: [\n                        // {name: '美容師管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.hairdresserCreate', {\n                url: '/hairdresser/create',\n                templateUrl: 'app/modules/admin/hairdresser/editor/editor.html',\n                controller: 'hairdresserEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: '美容師管理', sub: [\n                        {name: '美容師管理', url: 'admin.hairdresserManage'},\n                        {name: '美容師管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.hairdresserView', {\n                url: '/hairdresser/:id',\n                templateUrl: 'app/modules/admin/hairdresser/view/view.html',\n                controller: 'hairdresserViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: '美容師管理', sub: [\n                        {name: '美容師管理', url: 'admin.hairdresserManage'},\n                        {name: '美容師の詳細', url: ''}\n                    ]\n                }\n            })\n            .state('admin.hairdresserEdit', {\n                url: '/hairdresser/:id/edit',\n                templateUrl: 'app/modules/admin/hairdresser/editor/editor.html',\n                controller: 'hairdresserEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Hairdresser Management', sub: [\n                        {name: '美容師管理', url: 'admin.hairdresserManage'},\n                        {name: '美容師を編集', url: ''}\n                    ]\n                }\n            })\n            // FAQ\n            .state('admin.faqManage', {\n                url: '/faq/manage',\n                templateUrl: 'app/modules/admin/faq/manage/manage.html',\n                controller: 'faqManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ 管理', sub: [\n                        // {name: 'FAQ Management', url: ''}\n                    ]\n                }\n            })\n            .state('admin.faqCreate', {\n                url: '/faq/create',\n                templateUrl: 'app/modules/admin/faq/editor/editor.html',\n                controller: 'faqEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ管理', sub: [\n                        {name: 'FAQ管理', url: 'admin.faqManage'},\n                        {name: 'FAQを追加', url: ''}\n                    ]\n                }\n            })\n            .state('admin.faqView', {\n                url: '/faq/:id/',\n                templateUrl: 'app/modules/admin/faq/view/view.html',\n                controller: 'faqViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ管理', sub: [\n                        {name: 'FAQ管理', url: 'admin.faqManage'},\n                        {name: 'FAQ 詳細', url: ''}\n                    ]\n                }\n            })\n            .state('admin.faqEdit', {\n                url: '/faq/:id/edit',\n                templateUrl: 'app/modules/admin/faq/editor/editor.html',\n                controller: 'faqEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ 管理', sub: [\n                        {name: 'FAQ 管理', url: 'admin.faqManage'},\n                        {name: '編集 FAQ', url: ''}\n                    ]\n                }\n            })\n            // Category\n            .state('admin.categoryManage', {\n                url: '/category/manage',\n                templateUrl: 'app/modules/admin/category/manage/manage.html',\n                controller: 'categoryManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ管理', sub: [\n                        {name: 'テゴリー管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.categoryCreate', {\n                url: '/category/editor',\n                templateUrl: 'app/modules/admin/category/editor/editor.html',\n                controller: 'categoryEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ管理', sub: [\n                        {name: 'カテゴリー師', url: 'admin.categoryManage'},\n                        {name: 'カテゴリーを追加', url: ''}\n                    ]\n                }\n            })\n            .state('admin.categoryEdit', {\n                url: '/category/:id/edit',\n                templateUrl: 'app/modules/admin/category/editor/editor.html',\n                controller: 'categoryEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'FAQ管理', sub: [\n                        {name: 'カテゴリー師', url: 'admin.categoryManage'},\n                        {name: 'カテゴリーを編集', url: ''}\n                    ]\n                }\n            })\n            // Review\n            .state('admin.reviewManage', {\n                url: '/review/manage',\n                templateUrl: 'app/modules/admin/review/manage/manage.html',\n                controller: 'reviewManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'レビュー管理', sub: [\n                        {name: 'レビュー管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.reviewView', {\n                url: '/review/:id/',\n                templateUrl: 'app/modules/admin/review/view/view.html',\n                controller: 'reviewViewController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'レビュー管理', sub: [\n                        {name: 'レビュー管理', url: 'admin.reviewManage'},\n                        {name: 'レビューの詳細', url: ''}\n                    ]\n                }\n            })\n            .state('admin.jobManage', {\n                url: '/job/manage',\n                templateUrl: 'app/modules/admin/job/manage/manage.html',\n                controller: 'jobManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'お仕事管理', sub: [\n                        // {name: 'Job Management', url: ''}\n                    ]\n                }\n            })\n            .state('admin.emailManage', {\n                url: '/email/manage',\n                templateUrl: 'app/modules/admin/email/manage/manage.html',\n                controller: 'emailManageController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'メール管理', sub: [\n                        // {name: 'メール管理', url: ''}\n                    ]\n                }\n            })\n            .state('admin.emailSender', {\n                url: '/email/:id/send',\n                templateUrl: 'app/modules/admin/email/sender/sender.html',\n                controller: 'emailSenderController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'メール管理', sub: [\n                        {name: 'メール管理', url: 'admin.emailManage'},\n                        {name: 'メールを送る', url: ''}\n                    ]\n                }\n            })\n            .state('admin.emailCreate', {\n                url: '/email/create',\n                templateUrl: 'app/modules/admin/email/editor/editor.html',\n                controller: 'emailEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Email Management', sub: [\n                        {name: 'Email Management', url: 'admin.emailManage'},\n                        {name: 'Add Email', url: ''}\n                    ]\n                }\n            })\n            \n            .state('admin.emailEditor', {\n                url: '/email/:id/edit',\n                templateUrl: 'app/modules/admin/email/editor/editor.html',\n                controller: 'emailEditorController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Email Management', sub: [\n                        {name: 'Email Management', url: 'admin.emailManage'},\n                        {name: 'Edit Email', url: ''}\n                    ]\n                }\n            })\n            .state('admin.feeManagement', {\n                url: '/fee/manage',\n                templateUrl: 'app/modules/admin/fees_and_charges/manage/manage.html',\n                controller: 'feeController',\n                controllerAs: 'vm',\n                data: {\n                    module: 'Fees and Charges', sub: [\n                        {name: 'Fees and Charges', url: 'admin.feeManagement'}\n                    ]\n                }\n            })\n\n        ;\n    }\n})();\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/routes.js",
+					"file_size": 38333,
+					"file_write_time": 131884516405812699,
+					"settings":
+					{
+						"buffer_size": 36181,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
@@ -1164,26 +1189,6 @@
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
-				},
-				{
-					"contents": "/* eslint-disable quote-props */\n/**\n * Created by lansang.gat on 7/11/17.\n */\n\nangular\n    .module('fintechSpa')\n    .constant('translation', {\n        \n        'View All Jobs': '全てのお仕事を閲覧',\n        'Scissors Status': 'ハサミの状況',\n        'In Progress Jobs': '進行中のタスク',\n        'Show Today\\'s Jobs': '今日の仕事を表示する',\n        'Today\\'s Job(s)': '今日のお仕事',\n        'Add New Job': '新しいタスクを追加する',\n        'Recent Notifications': '最近のお知らせ',\n        'Calendar of Activities': 'カレンダー',\n        'Friend Introduce Campaign': '友人紹介キャンペーン',\n\n        'Home': '自宅',\n        'Signup': '新規アカウントを作成',\n        // 'Signin': 'サインイン',\n        'About ToGear': 'ToGEARについて',\n        'Find Sharpener': '研ぎ師を検索',\n        'Help': 'ヘルプ',\n        'Logout': 'ログアウト',\n        'View Profile': 'プロフィールを見る',\n        'View Profile Hairdresser': 'プロフィールを閲覧',\n        'Edit Profile': 'プロフィールを編集',\n        'Edit Profile Hairdresser': 'プロフィールを編集',\n        'All Jobs': '依頼中のハサミの状況',\n        'Back to Dashboard': 'ホーム画面に戻る',\n        'Logout': 'ログアウト',\n        'In-Progress Job List': '進行中のお仕事リスト',\n        'Review Sharpener': '研ぎ師を評価する',\n        'Today\\'s Job List': '今日の仕事リスト',\n        'Find your Sharpener': 'あなたのシャープナーを見つける',\n        'Average user rating': '平均ユーザー評価',\n        'Book Sharpener': 'ブックシャープナー',\n        'Rating breakdown': '評価の内訳',\n        'Location': '住所',\n        'Skills': 'スキル',\n        'Type:': '価格タイプ',\n        'Amount:': '量：',\n        'Address:': '住所：',\n        'Standard Price:': '標準価格',\n        'Standard Price': '標準価格',\n        'Express Price': 'エクスプレス価格',\n        'Express Price:': 'エクスプレス価格：',\n        'Birth Date:': '誕生日：',\n        'Description:': '説明：',\n        'View Reviews': 'レビューを見る',\n        'Reviews:': 'レビュー：',\n        'Reviews': 'レビュー',\n        'Rating:': '評価：',\n        'Comment:': 'コメント：',\n        'Reviewed by:': 'によるレビュー：',\n        'Reviewed by': 'によるレビュー',\n        'Sharpener Booking': '研ぎ師予約',\n        'Chosen Sharpener:': '選択した研ぎ師：',\n        'Location is required.': 'ロケーションは必須です。',\n        'Price': '価格',\n        'Price is required.': '価格は必須です。',\n        'Number of Scissors': 'ハサミ本数',\n        'Number of Scissors is required.': 'ハサミ本数が必要です。',\n        'Additional Details': '追記事項(オプション)',\n        'Book your Unavailable Days': 'ご都合の悪い日時を登録',\n        'Submit': '登録する',\n        'Submit User': '送信する',\n        'Your Booking Details': '予約詳細',\n        'Confirm': '確認',\n        'Cancel': 'キャンセル',\n        'Plan:': '価格タイプ：',\n        'Job Description:': 'お仕事内容：',\n        'Number of Scissors:': 'ハサミ本数：',\n        'Request Date:': 'ご希望日時：',\n        'Total Charge:': '合計金額',\n        'Skills:': 'スキル：',\n        'Last Login': '前回のログイン',\n        'Shop name': 'ショップ名',\n        'Birth Date': '誕生日',\n        'TOP': '上',\n        'ToGear Mission & Vision': 'ミッションとビジョンを結ぶ',\n        'ToGear Customers': '顧客を獲得する',\n        'Frequently Asked Question': 'よくある質問',\n        'Password must have a minimum of 6 characters.': 'パスワードは6文字以上を入力してください。',\n        'Confirm Password is required': '確認の為に再度パスワードを入力して下さい。',\n        'CONFIRM PASSWORD IS REQUIRED.': 'パスワード(確認用)を入力してください。',\n        'Passwords does not match.': 'パスワードが一致しません。',\n        'Email must be a valid email address format.': 'メールアドレスが正しくありません。',\n        'Standard Price is required.': '標準価格は必須です。',\n        'Express Price is required.': 'エクスプレス価格は必須です。',\n        'Personal Page Link is required.': '個人ページリンクは必要です。',\n        'Address is required.': 'アドレスは必須です。',\n        'Verify Email': 'Eメールを確認します',\n        'Username': 'ユーザー名',\n        'Email': 'メールアドレス',\n        'Export to Excel': 'Excelにエクスポート',\n        'Home': 'ホーム',\n        'Hair Dresser': 'ヘアドレッサー',\n        'Return to List': '一覧へ戻る',\n        'Skill is required.': 'スキルが必要です。',\n        'Sharpener': '研ぎ師',\n        'Review': 'レビュー',\n        'Rating': '評価する',\n        'Sharpener Name:': '研ぎ師のお名前:',\n        'Search by Status:': 'ステータスで検索：',\n        'All': 'すべて',\n        'Pending': '保留中',\n        'Open': '開いた',\n        'Rejected': '拒否された',\n        'Completed': '完了しました',\n        'Hairdresser': '美容師',\n        'Status': '状態',\n        'Type': 'タイプ',\n        'Amount': '量',\n        'Start Date' : '開始日',\n        'End Date': '終了日',\n        'Plan': 'プラン',\n        'Total Amount': '合計金額',\n        'Search by Title:': 'タイトルによる検索：',\n        'Search by Category:': 'カテゴリで検索：',\n        'Search by Body:': 'ボディで検索：',\n        'Title': 'タイトル' ,\n        'Body': '体',\n        'Category': 'カテゴリー',\n        'Registration Date': '登録日',\n        'Title is required.': 'タイトルは必須です。',\n        'Body is required.': '身体が必要です。',\n        'Category is required.': 'カテゴリは必須です。',\n        'Please write your questions here.': 'ここにあなたの質問を書いてください。',\n        'Personal Page Link': '個人ページリンク',\n        'Member Registration': '会員登録',\n        'with service type': 'サービスタイプ付き',\n        'Job Details': 'お仕事の詳細',\n        'Frequently Asked Questions': 'よくある質問',\n        'Sign up': 'サインアップ',\n        'Signup as Hairdresser': '美容師としてサインアップする',\n        'Signup as Sharpener': '研ぎ師としてサインアップする',\n        'VIEW ALL QUESTIONS': 'すべての質問を見る',\n        'SUBSCRIBE': '申し込む',\n        'Mail Address': 'メールアドレス',\n        'Register as Hairdresser': '美容師として登録する',\n        'Register as Sharpener': '研ぎ師として登録する',\n        'Don\\'t have an account?': 'アカウントをお持ちでない場合',\n        'View More': '詳細を見る',\n        'Close': '閉じる',\n        'Details': '詳細',\n        'Mission': 'ミッション',\n        'Vision': 'ビジョン',\n        'Book Now': '今予約する',\n        'Registration': '登録',\n        'About Us': '私たちに関しては',\n        'No Jobs Today': '今日はお仕事がありません。',\n        'Jobs': 'お仕事状況',\n        'Add new Job': '新しいお仕事を追加',\n        'Status:': '状況：',\n        'Profile Options': 'プロフィール',\n        'Select Time for Booking': '予約の時間を選択',\n        'Time': '時間',\n        'Pick a Time': '時間を選ぶ',\n        'Change Time': '時間を変更する',\n        'Referral Code': '紹介コード',\n        'Optional': 'オプション',\n        'Send Password Reset Link':'パスワードリセットリンクを送る',\n        'Forgot Your Password?': 'パスワードをお忘れですか？',\n        'Email Address:':'電子メールアドレス：',\n        'Enter New Password:' : '新しいパスワードを入力してください：',\n        'Confirm New Password:':'新しいパスワードを確認：',\n        'Error: The link to reset your password has expired. Please request a new link below' : 'エラー：パスワードをリセットするリンクが切れています。 下に新しいリンクをリクエストしてください',\n        'Email Field is Required' : 'メールフィールドは必須です',\n        'Token does not exist!': 'トークンは存在しません！',\n        'User does not exist!': 'ユーザーは存在しません！',\n        'Passwords do not match.' : 'パスワードが一致していません。',\n        'Forgot Password?': 'パスワードをお忘れですか？',\n        'Comment (Optional)': 'コメント (オプション)',\n        'Scissor Details': 'ハサミ詳細',\n        'Add More Scissors': 'ハサミの追加',\n        'Request New Task': '新たに研ぎを予約',\n        'Type of Scissor': 'ハサミ種類',\n        'Sharpening': '研ぎ',\n        'Rental': 'レンタル',\n        'Total Number of Scissors:': 'ハサミ総数:',\n        'Total Number of Rentals:': '総レンタル数:',\n        'Scissor Type:': 'ハサミ種類:',\n        'Quantity:': '量:',\n        'Inch:': 'インチ:',\n        'Thin Rate:': 'Thin Rate:',\n        'Handle:': 'ハンドル種類:',\n        'Your Promotion Code': 'プロモーションコード',\n        'If you book a new request today, returning day is as below:': '本日研ぎを予約された場合、ハサミの返却日は以下となります。', //\n        'Left Points': 'ポイント残高',\n        'Point Status': 'ポイント状況',\n        'point': 'ポイント',\n        'Account Info': 'アカウント情報',\n        'Telephone Number' : '電話番号',\n        'Zip Code' : '郵便番号',\n        'Zip Code is required' : '郵便番号が必要です',  \n        'Revocation Points': '失効ポイント',\n        'Date of Expiry': '有効期限',\n        'Number of Points': 'ポイント数',\n        'Date of Acquisition': 'ポイント獲得日',\n        'Exchange the point to Amazon gift': 'ポイントをAmazonギフトに交換する',\n        'Friend Introduce Status': '友人紹介状況',\n        'Friend': '友人',\n        'Friend of Friend': '友人の友人',\n        'Friend Of': '友人',\n        'Most Recent Points': '最新のポイント',\n        'Acquired Through': '獲得した',\n        'Inch': 'インチ',\n        'Thin Rate': '間引き率',\n        'Handle': 'ハンドル',\n        'The maximum number of scissors that can be sharpened per job is only 5, please adjust number of sharpening scissors again': 'ジョブごとに鋭くできるはさみの最大数はわずか5です。シャープニングハサミの数をもう一度調整してください',\n        'The maximum number of scissors that can be rented per job is only 5, please adjust number of rental scissors again': 'ジョブごとに借りることができるはさみの最大数はわずか5です。レンタルはさみの数をもう一度調整してください',\n        'Rent Scissors? :': '家賃はさみ？:',\n        'Rental Details': 'レンタルの詳細',\n        'Amazon Gift Certificates': 'Amazonギフト券',\n        'You may redeem your points in exchange for Amazon Gift Certificates': 'Amazonギフト券と引き換えにポイントを交換することができます',\n        'Exchange is possible in 1000 point units': '交換は1000ポイント単位で可能です',\n        'Replaceable Points:': '交換可能な点',\n        'Choose number of points to redeem:': '償還するポイントの数を選択してください：',\n        'Please enter set points to redeem': '設定するポイントを入力してください',\n        'Limit is 9000 point units': '限界は9000ポイント単位です',\n        'Your Task Details': 'あなたの仕事の詳細',\n        'Is it OK to book with the details below?': '下の詳細で予約することは可能ですか？',\n        'Individual Price': '個別価格',\n        'Total Price': '合計金額',\n        'Total Amount for Sharpening': 'シャープネスの合計金額',\n        'Overall Total Price': '全体の総価格',\n        'Use Points to Reduce Amount to Pay?': 'ポイントを使用して支払う金額を減らす',\n        'Enter number of points to redeem:': '償還するポイントの数を入力してください:',\n        'Redeemable points must not exceed Total Number of Points': '交換可能ポイントは合計ポイント数を超えてはならない',\n        'Redeemable points must not exceed Total Amount to pay': '償還可能ポイントは支払う総額を超えてはならない',\n        'Final Total Amount to Pay:': '支払うべき最終合計金額:',\n        'Delivery Fee': '配送料',\n        'Fees': '手数料',\n        'Book Task': 'ブックタスク',\n        'Correspondent': '特派員',\n        'Bank Account': '銀行口座',\n        'Comment': 'コメント',\n        'Correspondent is required.': '特派員が必要です。',\n        'Bank account is required.': '銀行口座が必要です。',\n        'Comment is required.': 'コメントは必須です。',\n        'Acquired Through': 'ポイント獲得手段',\n        'Street Address': '住所 (番地・マンション名・部屋番号等)',\n        'Guaranteed Date:': '返却保証日',\n        'Today\\'s Deadline Job': '今日のデッドラインジョブ',\n        'Welcome': 'ようこそ',\n        'Order Number:': '注文番号：',\n        'Hairdresser:': '美容師：',\n        'Location:': '住所:',\n        'Zip Code:': '郵便番号:',\n        'Address Details:': '住所の詳細：',\n        'Deadline:': '締め切り：',\n        'Rental Scissor Attribute': 'レンタルシザーアトリビュート'\n    });\n",
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-					"file_size": 14550,
-					"file_write_time": 131883929808291987,
-					"settings":
-					{
-						"buffer_size": 10189,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
-					"settings":
-					{
-						"buffer_size": 1316,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
 				}
 			],
 			"build_system": "",
@@ -1197,6 +1202,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"me",
+						"View: Toggle Menu"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -1258,6 +1267,8 @@
 			],
 			"file_history":
 			[
+				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
+				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/css/app.css",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/apiUrl.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104929_create_billings_table.php",
@@ -1270,7 +1281,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/fintechHelper.service.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/PointsController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/ScissorsTableSeeder.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RentalScissorAttributesSeeder.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/faq/manage/manage.html",
@@ -1312,7 +1322,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.service.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/how to fix or set up staging server Togear.txt",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ComposerServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/.env",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.controller.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.html",
@@ -1389,7 +1398,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 71.0
 			},
 			"find_in_files":
 			{
@@ -1514,7 +1523,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -1559,7 +1568,7 @@
 								"translation.y": 112.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -1575,8 +1584,8 @@
 								"selection":
 								[
 									[
-										349,
-										349
+										396,
+										396
 									]
 								],
 								"settings":
@@ -1593,11 +1602,45 @@
 								"translation.y": 400.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserAdminSeeder.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7616,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 173,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 84.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
 							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
 							"semi_transient": false,
 							"settings":
@@ -1609,8 +1652,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										149,
+										149
 									]
 								],
 								"settings":
@@ -1619,19 +1662,53 @@
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 88,
+									"vintage_lines.line": -1,
 									"vintage_lines.lines": 113,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1.0,
+								"translation.y": 841.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 4,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/routes.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36181,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12589,
+										12597
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 34,
+									"vintage_lines.lines": 871,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7295.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
 							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/BillingController.php",
 							"semi_transient": false,
 							"settings":
@@ -1643,8 +1720,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										223,
+										223
 									]
 								],
 								"settings":
@@ -1661,11 +1738,11 @@
 								"translation.y": 1.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 6,
 							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/routes/web.php",
 							"semi_transient": false,
 							"settings":
@@ -1677,8 +1754,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										708,
+										708
 									]
 								],
 								"settings":
@@ -1687,74 +1764,8 @@
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 0,
+									"vintage_lines.line": -1,
 									"vintage_lines.lines": 102,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10189,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10189,
-										10189
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 256,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1586.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1316,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										126,
-										126
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 48,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
@@ -1797,7 +1808,7 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -1807,7 +1818,7 @@
 				"height": 198.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,873,154,93,1341",
+			"position": "0,2,3,-32000,-32000,-1,-1,873,154,93,1341",
 			"project": "",
 			"replace":
 			{
@@ -1820,6 +1831,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"routes.",
+						"togear-fe\\.tmp\\routes.js"
+					],
+					[
+						"app.en",
+						"togear-be\\app.env"
+					],
+					[
+						"translacon",
+						"togear-fe\\src\\app\\constants\\translation.constant.js"
+					],
+					[
+						"userseeder",
+						"togear-be\\database\\seeds\\UserAdminSeeder.php"
+					],
 					[
 						"apiur",
 						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
@@ -1839,10 +1866,6 @@
 					[
 						"assetcssapp",
 						"togear-fe\\src\\assets\\css\\app.css"
-					],
-					[
-						"app.en",
-						"togear-be\\app.env"
 					],
 					[
 						"app.",
@@ -2318,18 +2341,6 @@
 					],
 					[
 						"dashboarcontrolle",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
-					],
-					[
-						"dashboaracont",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
-					],
-					[
-						"dashboarco",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
-					],
-					[
-						"dashcontroller",
 						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
 					]
 				],

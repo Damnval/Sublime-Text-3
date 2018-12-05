@@ -7,7 +7,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
 	],
@@ -19,6 +19,10 @@
 	"line_padding_bottom": 6,
 	"line_padding_top": 6,
 	"material_theme_brigth_scrollbars": true,
+	"menu_visible": false,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"vintage_ctrl_keys": true,
+	"vintage_lines.force_mode": true,
+	"vintage_start_in_command_mode": true
 }
