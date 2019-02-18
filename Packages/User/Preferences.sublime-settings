@@ -7,7 +7,7 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 	],
@@ -22,6 +22,7 @@
 	"menu_visible": false,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"vintage_ctrl_keys": true,
 	"vintage_lines.force_mode": true,
 	"vintage_start_in_command_mode": true

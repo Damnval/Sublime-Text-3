@@ -1,11 +1,25 @@
 {
 	"folder_history":
 	[
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/ToGear/togear-be",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/ToGear/togear-fe",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_fe",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Kaneka/kaneka",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Kaneka",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Study/blog",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Study/laradock",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Study/my-app",
+		"/C/Users/montesclaros.vvs/Desktop/Work/TestLaravel/blog_1",
+		"/C/Users/montesclaros.vvs/Desktop/Work/TestLaravel/blog",
 		"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe",
 		"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be"
 	],
 	"last_version": 3176,
-	"last_window_id": 14,
+	"last_window_id": 59,
 	"log_indexing": false,
 	"settings":
 	{
@@ -17,16 +31,104 @@
 				"selected_items":
 				[
 					[
+						"com",
+						"company_id"
+					],
+					[
+						"compan",
+						"company_id"
+					],
+					[
+						"job",
+						"jobseeker"
+					],
+					[
+						"to",
+						"toArray"
+					],
+					[
+						"jo",
+						"jobChoiceService"
+					],
+					[
+						"Job",
+						"JobSeeker"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"sta",
+						"status"
+					],
+					[
+						"Au",
+						"AuthenticationException"
+					],
+					[
+						"rq",
+						"request"
+					],
+					[
+						"succe",
+						"successfully"
+					],
+					[
+						"reu",
+						"request"
+					],
+					[
+						"hata",
+						"hataraki_kata"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"comap",
+						"company"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"sea",
+						"searchWords"
+					],
+					[
+						"key",
+						"keyword"
+					],
+					[
+						"compa",
+						"company"
+					],
+					[
+						"ver",
+						"verifyUser"
+					],
+					[
+						"ema",
+						"email_verified_at"
+					],
+					[
+						"user",
+						"userService"
+					],
+					[
+						"ve",
+						"verifyUser"
+					],
+					[
 						"data",
 						"dataRevocation"
 					],
 					[
 						"bili",
 						"billing"
-					],
-					[
-						"re",
-						"response"
 					],
 					[
 						"cust",
@@ -137,8 +239,36 @@
 				"selected_items":
 				[
 					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
 						":w",
 						":w - Save"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"packins",
@@ -185,142 +315,142 @@
 			},
 			"file_history":
 			[
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/css/app.css",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/apiUrl.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104929_create_billings_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_12_04_094748_alter_billings_table_change_alias_to_brand_remove_token_add_fingerprint_and_default.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/helpers/apiUrlProvider.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/storage/logs/laravel.log",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_032738_alter_jobrequest_table_remove_location_and_status_fields.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_10_30_094215_create_billing_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/constants/translation.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/fintechHelper.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/PointsController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/ScissorsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RentalScissorAttributesSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/faq/manage/manage.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/User.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/Billing.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/HairDresser.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/EarnedPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/index.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/DatabaseSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/HairdresserService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/JobRequestService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/EarnedPointsService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/points/pointsHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/points/pointsHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/Api/StripeService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/BillingController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/RentalAttribute.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/routes.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/apiUrlProvider.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/points/amazonHairdresser/amazonHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/dashboard/dashboard.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Rentals table design.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/.gitignore",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheMutex.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/JobRequest.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/bower_components/AdminLTE/plugins/datatables/extensions/ColVis/License.txt",
-				"/C/Users/montesclaros.vvs/Desktop/togear dummy account gmail.txt",
-				"/C/Users/montesclaros.vvs/Desktop/billing.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/job/specificJob/specificJob.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/JobRequestController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/how to fix or set up staging server Togear.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ComposerServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/sharpener/dashboard/dashboard.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/routes.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/JobService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/routes/web.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/HairdresserController.php",
-				"/C/Users/montesclaros.vvs/Desktop/11.15.18.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RedeemedPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/config/database.php",
-				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/components/togearComponents/layouts/header/header.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/points/pointsHairdresser.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/job/all/all.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billingController.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/test.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Auth/ResetPasswordController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/karma-coverage/node_modules/dateformat/test/weekofyear/test_weekofyear.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_26_101613_alter_user_table_add_column_stripe_customer_id.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/stripe/stripe-php/lib/Stripe.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/es5-ext/object/ensure-natural-number-value.js",
-				"/C/Users/montesclaros.vvs/Desktop/I did before.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/labshore-laravel/app.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env_development",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/constants/apiUrl.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserAdminSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/register/register.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Oauth/LoginProxy.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/SharpenerController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/Geolocation.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_093055_alter_user_table_remove_confirmed_confirmation_code.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_110012_create_order_details_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104943_create_orders_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/JobRequestTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_08_28_034800_add_confirmation_to_users_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_07_04_063135_create_sharpener_skills_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2014_10_12_000000_create_users_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/CategoryController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/register/register.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Providers/AppServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/caniuse-lite/data/features/object-observe.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/SharpenerService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/HairdresserController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/FaqService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/JobController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_101407_create_earned_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/AccountController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/admin/hairdresser/editor/editor.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_093428_create_redeemed_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/register/register.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/UserService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/league/oauth2-server/src/Exception/UniqueTokenIdentifierConstraintViolationException.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/eslint-plugin-angular/rules/service-name.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/HairdresserTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_091413_create_user_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/phpoffice/phpexcel/Classes/PHPExcel/Chart/DataSeries.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RoleUserTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_07_12_065311_create_hairdresser_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_14_071427_alter_hairdresser_table_remove_location_add_phone.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard/dashboard.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/app.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/partials/_button.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/job/all/all.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/partials/_dashboard.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Events/BookedJob.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Auth/RegisterController.php"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/JobCategoryController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/UserController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobSeekerRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/api.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/JobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobSeeker.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/User.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SnSUser.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/CompanyRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobCategory.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobCategoryRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/UserRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobCategoryService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/RegisterController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/UserService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Exceptions/Handler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/Auth/ResetPasswordController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/HatarakiKataController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Integration/Routing/Fixtures/ApiResourceTaskController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SnSUserService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobController",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/HatarakiKataResourceRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/PasswordResetService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/GeolocationRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/TokenRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Notifications/PasswordResetRequest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Geolocation.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SlugRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/web.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobChoiceRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/HatarakiKataResourceService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/HatarakiKataResourceController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/HatarakiKataResource.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SharedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/AppliedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Integration/Queue/ModelSerializationTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/HatarakiKataRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SlugService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Company.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/AppliedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SlugController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobChoiceService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phar-io/manifest/tests/xml/AuthorElementCollectionTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/HatarakiKataService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/Job Choice Staging/Server Setup and Steps on Deployment.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/.env",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/ToGear/how to fix or set up staging server Togear.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/HatarakiKata.php",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/beyondcode/laravel-dump-server/helpers.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/HatarakiKataTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nexmo/client/src/Application/ApplicationInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/DatabaseSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobSeekerTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/Controller.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Providers/AppServiceProvider.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/AppliedJobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_24_093822_update_companies_and_job_seekers_tables_changing_columns_from_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/GeolocationTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/AppliedJobSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Auth/AuthenticationException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/src/Framework/ExpectationFailedException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/FeaturedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompanyTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/FeaturedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Slug.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/SharedJobsTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/PasswordReset.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/SlugTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/GeolocationService",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SharedJob.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/routing/Tests/Fixtures/AnnotationFixtures/RouteWithPrefixController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/regression/GitHub/2085-enforce-time-limit-options-via-config-without-invoker.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/lcobucci/jwt/test/unit/Claim/GreaterOrEqualsToTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_04_082753_add_fields_gender_birthdate_in_job_seekers_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/create_geolocation_table_seeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/UserSeederTable.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompaniesSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_04_074548_add_fields_gender_birthdate_in_companies_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/fzaninotto/faker/src/Faker/Provider/DateTime.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/PasswordResetRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/league/oauth2-server/src/Exception/OAuthServerException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_01_053621_alter_job_seekers_and_companies_tables_change_column_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_09_062334_create_job_seekers_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_09_053028_create_companies_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_01_052557_alter_job_seekers_table_change_column_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/FeaturedJobTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/test-order-randomized-seed-with-dependency-resolution.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/regression/GitHub/2591-separate-function-no-preserve-no-bootstrap-xdebug.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobCategoryTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_30_080813_add_description_field_in_job_categories_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/guzzlehttp/guzzle/src/Client.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpdocumentor/type-resolver/examples/05-discovering-the-context-using-method-reflection.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Auth/AuthListenersSendEmailVerificationNotificationHandleFunctionTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/AppliedJob.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_29_064526_create_applied_jobs_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SharedJobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/console/Tester/ApplicationTester.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/tests/CreatesApplication.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SharedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_28_090748_create_applied_jobs_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/work for Jan. 21.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SharedJobRepository.hpp",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/ShareJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Job.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpseclib/phpseclib/tests/Functional/Net/SCPSSH2UserStoryTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/league/oauth2-server/src/Repositories/UserRepositoryInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_28_033357_change_share_mates_table_name_to_shared_jobs.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/ModelsSlug.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Slugs.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nexmo/client/src/Application/Webhook.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/debug/Exception/SilencedErrorContext.php"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
-				"height": 161.0,
+				"height": 182.0,
 				"where_history":
 				[
 					""
@@ -331,90 +461,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"*******",
-					"******",
-					"*****",
-					"****",
-					"***",
-					"**",
-					"************",
-					"***********",
-					"**********",
-					"*********",
-					"************",
-					"***********",
-					"**********",
-					"*********",
-					"********",
-					"*******",
-					"************//",
-					"Category",
-					"ADD",
-					"job_requests",
-					"Earned Points do not exist!",
-					"earne",
-					"Earned Points do not exist!",
-					"/hairdresser/points/amazon",
-					"isFetchingData",
-					"isLoading",
-					"loading",
-					"loading\\",
-					"stripe_customer_id",
-					"defaultBilling",
-					"'PUT'",
-					"put",
-					"updateCustomer",
-					"retrieveCus",
-					"updateCustomer",
-					"createCardToken",
-					"getBilling",
-					"getListCards",
-					"getListCardsgetListCards",
-					"getListCards",
-					"stripe_customer_id",
-					"createCard",
-					"stripe_id",
-					"route",
-					"href",
-					"deletebil",
+					"user",
+					"compan",
+					"categorySearch",
+					"occupationSearch",
+					"user",
+					"job",
+					"dest",
+					"->delete()",
+					"jobChoiceRepository->delete",
+					"store",
+					"store(",
+					"store",
+					"user()->where(",
+					"use()->where(",
+					"job_seeker()->updateWhere(",
+					"job_seeker()->updateWhere()",
+					"updateWhere",
+					"updateWh",
+					"where(",
+					"search",
+					"occupationSearch",
+					"saveGeolocation",
+					"saveClientType(",
+					"saveClientType",
+					"store",
+					"where(",
+					"where",
+					"hataraki_kata()->createMany",
+					"Modelhh",
+					"getClientRecordBasedOnType",
+					"hataraki_kata",
+					"\t\t\n",
+					"hatarakiKata",
+					"hataraki_kata_resource",
+					"update(",
 					"update",
-					"throw",
-					"Nerd",
-					"nerd",
-					"desto",
-					"des",
-					"swal",
-					"deleteHairdresser",
-					"default",
-					"biling",
-					"SweetAlert",
-					"swal",
-					"year",
-					"month",
-					"card_number",
-					"createCardToken",
-					"service",
-					"Token",
-					"createTo",
-					"getBilling",
-					"create",
-					"sk_test_zXCtuM1xtYwNLzzTxtDqc7Q5",
-					"<",
-					"hairdresserUserBillingServiceo",
-					"hairdresserUserBillingServiceo ",
-					"hairdresser",
+					"hataraki_kata()->creat",
+					"hataraki_kata->create",
+					"sekup",
+					"update",
+					"userservice",
+					"updateWhere",
+					"update(",
+					"update",
+					"hataraki_kata()->create",
+					"update",
 					"user",
-					"admin",
-					"hairdresser",
-					"hair",
-					"hairdresser",
-					"vm.dtOptions",
+					"update",
+					"updtea",
+					"validat",
+					"use",
+					" \"use_sort_length\": false,",
+					"saveClientType",
+					"store",
+					"hata",
+					"hataraki_kata()->createMany",
+					"company()->createMany",
+					"job_seeker()->createMany",
+					"delete",
+					"job_seeker",
+					"update",
+					"update(",
+					"update",
+					"up",
+					"update",
+					"hatarakiKata",
+					"$",
+					";\n",
+					"update",
+					"updatewher",
+					"updateWhere",
+					"udpateWhwer",
+					"updateWhere",
+					"updateWher",
+					"update",
+					"udpate",
+					"validatorToUse",
+					"validatorToUse(",
+					"update",
+					"show",
+					"catch (Exception $e)",
+					"index",
+					"update(",
+					"update",
+					"update(",
+					"user()->where",
+					"index",
+					"tion where(",
+					"where(",
+					"all(",
+					"index",
+					"inde",
+					"validatorto",
+					"saveClientType",
+					"store",
+					"update",
 					"user",
-					"billingManagement",
-					"user",
-					"hairdresser/billing/",
-					"returnre",
-					"hairdresser/billing"
+					"'",
+					"400",
+					"update(",
+					"show(",
+					"token()->where",
+					"this is not generic",
+					"NotFoundHttpException",
+					"status",
+					"slug()->store",
+					"createMorp",
+					"store",
+					"VerifyMail",
+					"slug()->where(",
+					"<<<<<<< HEAD\n=======\nuse kkkk\\Carbon;\n\n>>",
+					"carbon",
+					"store",
+					"birth_date",
+					"SharedJobsTableSeeder",
+					"Carbon",
+					"where",
+					"createMor",
+					"job",
+					"Job",
+					"job",
+					"Job",
+					"job",
+					"Job",
+					"job",
+					"Job",
+					"job",
+					"slug()->where"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -422,6 +596,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"    {"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -431,13 +606,13 @@
 			},
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 32.0
 			},
 			"input":
 			{
-				"height": 71.0
+				"height": 73.0
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -449,7 +624,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -459,516 +634,516 @@
 				"selected_items":
 				[
 					[
-						"apiur",
-						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
+						"user",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"apiurlpro",
-						"togear-fe\\src\\app\\helpers\\apiUrlProvider.service.js"
+						"companse",
+						"sites\\backend\\database\\seeds\\CompanyTableSeeder.php"
 					],
 					[
-						"translatcon",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
+						"compacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\CompanyController.php"
 					],
 					[
-						"apiurl",
-						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
+						"jobchorepo",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
 					],
 					[
-						"assetcssapp",
-						"togear-fe\\src\\assets\\css\\app.css"
+						"jobcho",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
 					],
 					[
-						"app.en",
-						"togear-be\\app.env"
+						"api",
+						"sites\\backend\\routes\\api.php"
 					],
 					[
-						"app.",
-						"togear-be\\app.env"
+						"usercont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
 					],
 					[
-						"createbilling",
-						"togear-be\\database\\migrations\\2018_10_30_094215_create_billing_table.php"
+						"compancon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\CompanyController.php"
 					],
 					[
-						"contranslation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
+						"SlugController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\SlugController.php"
 					],
 					[
-						"contranslat",
-						"togear-fe\\.tmp\\app\\constants\\translation.constant.js"
+						"jobservice",
+						"sites\\backend\\app\\Services\\JobService.php"
 					],
 					[
-						"routew",
-						"togear-be\\routes\\web.php"
+						"jobser",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"routwe",
-						"togear-be\\routes\\web.php"
+						"JobRepository",
+						"sites\\backend\\app\\Repositories\\JobRepository.php"
 					],
 					[
-						"billingser",
-						"togear-be\\app\\Services\\BillingService.php"
+						"JobController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
 					],
 					[
-						"stripeser",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"jobcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
 					],
 					[
-						"billigcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"jobservi",
+						"sites\\backend\\app\\Services\\JobService.php"
 					],
 					[
-						"billingservi",
-						"togear-be\\app\\Services\\BillingService.php"
+						"ap",
+						"sites\\backend\\routes\\api.php"
 					],
 					[
-						"dashboardlandcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
+						"userser",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"pointhacont",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\points\\pointsHairdresser.controller.js"
+						"register",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
 					],
 					[
-						"dashboarladingcontro",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
+						"jobcas",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
 					],
 					[
-						"User\\PointsController",
-						"togear-be\\app\\Http\\Controllers\\User\\PointsController.php"
+						"jobcaer",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"routweb",
-						"togear-be\\routes\\web.php"
+						"jobcacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"earne",
-						"togear-be\\app\\Services\\EarnedPointsService.php"
+						"jobcaser",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
 					],
 					[
-						"src/index",
-						"togear-fe\\src\\index.html"
+						"jobcacont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"pointsHairconto",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\points\\pointsHairdresser.controller.js"
+						"userrepot",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"earneservi",
-						"togear-be\\app\\Services\\EarnedPointsService.php"
+						"jobcarepo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"earnseeder",
-						"togear-be\\database\\seeds\\EarnedPointsTableSeeder.php"
+						"jobcateser",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
 					],
 					[
-						"earseeder",
-						"togear-be\\database\\seeds\\EarnedPointsTableSeeder.php"
+						"jobcatecon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"fetranslation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
+						"jobcateserv",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
 					],
 					[
-						"newbookingHiarconto",
-						"togear-fe\\src\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
+						"jobcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
 					],
 					[
-						"modelrenta",
-						"togear-be\\app\\Http\\Models\\RentalAttribute.php"
+						"jobcatec",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"scissortable",
-						"togear-be\\database\\seeds\\ScissorsTableSeeder.php"
+						"resetpasswo",
+						"sites\\backend\\app\\Http\\Controllers\\Auth\\ResetPasswordController.php"
 					],
 					[
-						"bookingcontr",
-						"togear-fe\\src\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
+						"modelsjocat",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
-						"jobreqser",
-						"togear-be\\app\\Services\\JobRequestService.php"
+						"regi",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
 					],
 					[
-						"hair",
-						"togear-be\\app\\Services\\HairdresserService.php"
+						"jobcaseriv",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
 					],
 					[
-						"RentalScissorAttributesSeeder",
-						"togear-be\\database\\seeds\\RentalScissorAttributesSeeder.php"
+						"joccon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"dbseeder",
-						"togear-be\\database\\seeds\\DatabaseSeeder.php"
+						"modelsjobcat",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
-						"apiUrlProvider",
-						"togear-fe\\.tmp\\app\\helpers\\apiUrlProvider.service.js"
+						"jobcatcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"Hairdresser/newBookingHairdresser.controller.js",
-						"togear-fe\\.tmp\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
+						"jobcatcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"amazonHairdresserController",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\points\\amazonHairdresser\\amazonHairdresser.controller.js"
+						"useservi",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"routejs",
-						"togear-fe\\src\\routes.js"
+						"",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"tranlation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
+						"usercon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
 					],
 					[
-						"routewe",
-						"togear-be\\routes\\web.php"
+						"jobcate",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"modelsbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"regicont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
 					],
 					[
-						"routeweb",
-						"togear-be\\routes\\web.php"
+						"jobcatego",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"modelbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"hand",
+						"sites\\backend\\app\\Exceptions\\Handler.php"
 					],
 					[
-						"mohairder",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
-					],
-					[
-						"febillingservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"bilincontro",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcon",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingseriv",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RoutingServiceProvider.php"
-					],
-					[
-						"stipeser",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"billingserv",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"billingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"bebillingcontroller",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"stripec",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"bilingser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"billincont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingserov",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RoutingServiceProvider.php"
-					],
-					[
-						"stripeservice",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"stripeService",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"billingService",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"febilligncontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"febilingcon",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"bilincont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billinghtm",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"febilinservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"billinght",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"bebilcontroller",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcontroll",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"billingsevi",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"bebillingconto",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingconto",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"bilingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billinser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"billinservi",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"servicebiling",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"modelshair",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
-					],
-					[
-						"modesbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
-					],
-					[
-						"modehairder",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
-					],
-					[
-						"modelsuser",
-						"togear-be\\app\\Http\\Models\\User.php"
-					],
-					[
-						"febillinser",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"febillinconto",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"billinghtml",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"billinghmt",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Scheduling\\CacheMutex.php"
-					],
-					[
-						"bebilingser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"bebillingcontro",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"fintech",
-						"togear-fe\\.tmp\\app\\helpers\\fintechHelper.service.js"
-					],
-					[
-						"febillingcontor",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"billingh",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"migrationbiling",
-						"togear-be\\database\\migrations\\2018_10_30_094215_create_billing_table.php"
-					],
-					[
-						"bilingserv",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"modelsbilli",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"modelsjobca",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
 						"modelsjob",
-						"togear-be\\app\\Http\\Models\\JobRequest.php"
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"routewb",
-						"togear-be\\routes\\web.php"
+						"modelsuser",
+						"sites\\backend\\app\\Models\\SnSUser.php"
 					],
 					[
-						"billingservice",
-						"togear-be\\app\\Services\\BillingService.php"
+						"moelsjobca",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
-						"billinsevicen",
-						"togear-fe\\bower_components\\AdminLTE\\plugins\\datatables\\extensions\\ColVis\\License.txt"
+						"jobcarpeo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"modebilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"jobcatrepo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"billingsevjs",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"hatacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataController.php"
 					],
 					[
-						"bebillingserv",
-						"togear-be\\app\\Services\\BillingService.php"
+						"JobCategoryController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"billingcontrl",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"apirou",
+						"sites\\backend\\vendor\\laravel\\framework\\tests\\Integration\\Routing\\Fixtures\\ApiResourceTaskController.php"
 					],
 					[
-						"billinconto",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"UserRepository",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"route",
-						"togear-fe\\src\\routes.js"
+						"JobSeekerRepository",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"billingcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"modelsJobSeeker",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"febillingcont",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobseerepo",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"stripeservi",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"compa",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
 					],
 					[
-						"stripes",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"modelsjobse",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"jobservice.js",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\job\\specificJob\\specificJob.service.js"
+						"hatareourepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
 					],
 					[
-						"JobRequestService",
-						"togear-be\\app\\Services\\JobRequestService.php"
+						"use",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"JobRequestController",
-						"togear-be\\app\\Http\\Controllers\\User\\JobRequestController.php"
+						"jobserepot",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"febillingservi",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"useser",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"febillincontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobrepo",
+						"sites\\backend\\app\\Repositories\\JobRepository.php"
 					],
 					[
-						"febillingcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"UserService",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"stripeserv",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"jobserv",
+						"sites\\backend\\app\\Services\\JobService.php"
 					],
 					[
-						"bebillingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"jobcare",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"striperservi",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Providers\\ComposerServiceProvider.php"
+						"passwserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"bebillingcontrol",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"geolorepo",
+						"sites\\backend\\app\\Repositories\\GeolocationRepository.php"
 					],
 					[
-						".env",
-						"togear-be\\.env"
+						"pasworeserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"stripe",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"UserController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
 					],
 					[
-						"stripservice",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"userrpeo",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"billihtml",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
+						"comparepo",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
 					],
 					[
-						"febillicontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobsee",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"febiilingser",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"tokenrepo",
+						"sites\\backend\\app\\Repositories\\TokenRepository.php"
 					],
 					[
-						"febillservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"userrepo",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"dashboarcontrolle",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"passwreserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"dashboaracont",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
+						"passreser",
+						"sites\\backend\\app\\Notifications\\PasswordResetRequest.php"
 					],
 					[
-						"dashboarco",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"userserv",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"dashcontroller",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"hatareoucon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatareoicont",
+						"sites\\backend\\vendor\\phar-io\\manifest\\tests\\xml\\AuthorElementCollectionTest.php"
+					],
+					[
+						"modelhatare",
+						"sites\\backend\\app\\Models\\HatarakiKataResource.php"
+					],
+					[
+						"hataresousr",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatararerepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hatarescont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarakatcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataController.php"
+					],
+					[
+						"web",
+						"sites\\backend\\routes\\web.php"
+					],
+					[
+						"HatarakiKataResourceService",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatarakireop",
+						"sites\\backend\\app\\Repositories\\HatarakiKataRepository.php"
+					],
+					[
+						"hatrarepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataRepository.php"
+					],
+					[
+						"hatreser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatatresouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatareser",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"jobsrepo",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
+					],
+					[
+						"appservHatarakiKataResourceService",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"job",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"jobch",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"hatareouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"jobchoiser",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"hatrarecont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatrecon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
+					],
+					[
+						"hataresouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareouc",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hataresou",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hataresourcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hataresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareoucont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarreser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareserre",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hataser",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
+					],
+					[
+						"hatarerepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hatararesrser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatarresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatarser",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
+					],
+					[
+						"hataservice",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
+					],
+					[
+						"hatraserv",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
+					],
+					[
+						"hatareserserv",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"modelshatrakreo",
+						"sites\\backend\\app\\Models\\HatarakiKataResource.php"
+					],
+					[
+						"hatarecontro",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hataresoucont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hata",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarep",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarecont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"jobchoi",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
+					],
+					[
+						"jobchoirepo",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
+					],
+					[
+						"jobchoiceser",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
 					]
 				],
 				"width": 0.0
@@ -993,9 +1168,9 @@
 			},
 			"show_minimap": true,
 			"show_open_files": false,
-			"show_tabs": true,
+			"show_tabs": false,
 			"side_bar_visible": true,
-			"side_bar_width": 532.0,
+			"side_bar_width": 467.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1011,16 +1186,104 @@
 				"selected_items":
 				[
 					[
+						"com",
+						"company_id"
+					],
+					[
+						"compan",
+						"company_id"
+					],
+					[
+						"job",
+						"jobseeker"
+					],
+					[
+						"to",
+						"toArray"
+					],
+					[
+						"jo",
+						"jobChoiceService"
+					],
+					[
+						"Job",
+						"JobSeeker"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"sta",
+						"status"
+					],
+					[
+						"Au",
+						"AuthenticationException"
+					],
+					[
+						"rq",
+						"request"
+					],
+					[
+						"succe",
+						"successfully"
+					],
+					[
+						"reu",
+						"request"
+					],
+					[
+						"hata",
+						"hataraki_kata"
+					],
+					[
+						"re",
+						"request"
+					],
+					[
+						"comap",
+						"company"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"sea",
+						"searchWords"
+					],
+					[
+						"key",
+						"keyword"
+					],
+					[
+						"compa",
+						"company"
+					],
+					[
+						"ver",
+						"verifyUser"
+					],
+					[
+						"ema",
+						"email_verified_at"
+					],
+					[
+						"user",
+						"userService"
+					],
+					[
+						"ve",
+						"verifyUser"
+					],
+					[
 						"data",
 						"dataRevocation"
 					],
 					[
 						"bili",
 						"billing"
-					],
-					[
-						"re",
-						"response"
 					],
 					[
 						"cust",
@@ -1123,65 +1386,157 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.html",
+					"contents": "<?php\n\nuse Illuminate\\Http\\Request;\n\n/*\n|--------------------------------------------------------------------------\n| API Routes\n|--------------------------------------------------------------------------\n|\n| Here is where you can register API routes for your application. These\n| routes are loaded by the RouteServiceProvider within a group which\n| is assigned the \"api\" middleware group. Enjoy building your API!\n|\n*/\n\nRoute::post('check-user', 'API\\RegisterController@checkUser');\nRoute::post('register', 'API\\RegisterController@register');\n\nRoute::post('login', 'API\\RegisterController@login');\nRoute::get('user/verify/{token}', 'API\\RegisterController@verifyUser');\n\nRoute::group(['prefix' => 'password'], function () {\n    Route::post('create', 'API\\UserController@sendPasswordReset');\n    Route::post('reset', 'API\\UserController@resetPassword');\n});\n\nRoute::group(['middleware' => ['auth:api']], function () {\n\tRoute::post('logout','API\\UserController@logout');\n    Route::resource('user', 'API\\UserController');\n    Route::resource('hataraki-kata-resource', 'API\\HatarakiKataResourceController');\n    Route::get('user-all','API\\UserController@index');\n\tRoute::post('user-shared-jobs', 'API\\SlugController@userSharedJobs');\n\tRoute::post('user-applied-jobs', 'API\\AppliedJobController@userAppliedJobs');\n    Route::post('company-jobs', 'API\\CompanyController@postedJobs');\n});\n\n//public routes\nRoute::resource('job-category', 'API\\JobCategoryController');\nRoute::resource('hataraki-kata', 'API\\HatarakiKataController');\nRoute::resource('jobs/featured', 'API\\FeaturedJobController');\nRoute::resource('job', 'API\\JobController');\n\nRoute::post('search', 'API\\JobController@keywordSearch');\nRoute::post('line', 'API\\RegisterController@line');\n\nRoute::middleware('auth:api')->get('/user', function (Request $request) {\n    return $request->user()->load(\n    \t\t\t\t\t\t'company',\n    \t\t\t\t\t\t'job_seeker.hataraki_kata_resource.hataraki_kata',\n    \t\t\t\t\t\t'slug'\n    \t\t\t\t\t\t);\n});\n\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/api.php",
+					"file_size": 2026,
+					"file_write_time": 131946885418601011,
 					"settings":
 					{
-						"buffer_size": 7844,
+						"buffer_size": 1973,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/RegisterController.php",
+					"settings":
+					{
+						"buffer_size": 4146,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobSeeker.php",
+					"settings":
+					{
+						"buffer_size": 823,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/User.php",
+					"settings":
+					{
+						"buffer_size": 1765,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SnSUser.php",
+					"settings":
+					{
+						"buffer_size": 744,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/CompanyController.php",
+					"settings":
+					{
+						"buffer_size": 859,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompanyTableSeeder.php",
+					"settings":
+					{
+						"buffer_size": 708,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/UserService.php",
+					"settings":
+					{
+						"buffer_size": 9196,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/CompanyService.php",
+					"settings":
+					{
+						"buffer_size": 907,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/Api/StripeService.php",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/CompanyRepository.php",
 					"settings":
 					{
-						"buffer_size": 5179,
+						"buffer_size": 2017,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobRepository.php",
 					"settings":
 					{
-						"buffer_size": 2815,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/BillingController.php",
-					"settings":
-					{
-						"buffer_size": 4015,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/routes/web.php",
-					"settings":
-					{
-						"buffer_size": 4347,
+						"buffer_size": 3058,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "/* eslint-disable quote-props */\n/**\n * Created by lansang.gat on 7/11/17.\n */\n\nangular\n    .module('fintechSpa')\n    .constant('translation', {\n        \n        'View All Jobs': '全てのお仕事を閲覧',\n        'Scissors Status': 'ハサミの状況',\n        'In Progress Jobs': '進行中のタスク',\n        'Show Today\\'s Jobs': '今日の仕事を表示する',\n        'Today\\'s Job(s)': '今日のお仕事',\n        'Add New Job': '新しいタスクを追加する',\n        'Recent Notifications': '最近のお知らせ',\n        'Calendar of Activities': 'カレンダー',\n        'Friend Introduce Campaign': '友人紹介キャンペーン',\n\n        'Home': '自宅',\n        'Signup': '新規アカウントを作成',\n        // 'Signin': 'サインイン',\n        'About ToGear': 'ToGEARについて',\n        'Find Sharpener': '研ぎ師を検索',\n        'Help': 'ヘルプ',\n        'Logout': 'ログアウト',\n        'View Profile': 'プロフィールを見る',\n        'View Profile Hairdresser': 'プロフィールを閲覧',\n        'Edit Profile': 'プロフィールを編集',\n        'Edit Profile Hairdresser': 'プロフィールを編集',\n        'All Jobs': '依頼中のハサミの状況',\n        'Back to Dashboard': 'ホーム画面に戻る',\n        'Logout': 'ログアウト',\n        'In-Progress Job List': '進行中のお仕事リスト',\n        'Review Sharpener': '研ぎ師を評価する',\n        'Today\\'s Job List': '今日の仕事リスト',\n        'Find your Sharpener': 'あなたのシャープナーを見つける',\n        'Average user rating': '平均ユーザー評価',\n        'Book Sharpener': 'ブックシャープナー',\n        'Rating breakdown': '評価の内訳',\n        'Location': '住所',\n        'Skills': 'スキル',\n        'Type:': '価格タイプ',\n        'Amount:': '量：',\n        'Address:': '住所：',\n        'Standard Price:': '標準価格',\n        'Standard Price': '標準価格',\n        'Express Price': 'エクスプレス価格',\n        'Express Price:': 'エクスプレス価格：',\n        'Birth Date:': '誕生日：',\n        'Description:': '説明：',\n        'View Reviews': 'レビューを見る',\n        'Reviews:': 'レビュー：',\n        'Reviews': 'レビュー',\n        'Rating:': '評価：',\n        'Comment:': 'コメント：',\n        'Reviewed by:': 'によるレビュー：',\n        'Reviewed by': 'によるレビュー',\n        'Sharpener Booking': '研ぎ師予約',\n        'Chosen Sharpener:': '選択した研ぎ師：',\n        'Location is required.': 'ロケーションは必須です。',\n        'Price': '価格',\n        'Price is required.': '価格は必須です。',\n        'Number of Scissors': 'ハサミ本数',\n        'Number of Scissors is required.': 'ハサミ本数が必要です。',\n        'Additional Details': '追記事項(オプション)',\n        'Book your Unavailable Days': 'ご都合の悪い日時を登録',\n        'Submit': '登録する',\n        'Submit User': '送信する',\n        'Your Booking Details': '予約詳細',\n        'Confirm': '確認',\n        'Cancel': 'キャンセル',\n        'Plan:': '価格タイプ：',\n        'Job Description:': 'お仕事内容：',\n        'Number of Scissors:': 'ハサミ本数：',\n        'Request Date:': 'ご希望日時：',\n        'Total Charge:': '合計金額',\n        'Skills:': 'スキル：',\n        'Last Login': '前回のログイン',\n        'Shop name': 'ショップ名',\n        'Birth Date': '誕生日',\n        'TOP': '上',\n        'ToGear Mission & Vision': 'ミッションとビジョンを結ぶ',\n        'ToGear Customers': '顧客を獲得する',\n        'Frequently Asked Question': 'よくある質問',\n        'Password must have a minimum of 6 characters.': 'パスワードは6文字以上を入力してください。',\n        'Confirm Password is required': '確認の為に再度パスワードを入力して下さい。',\n        'CONFIRM PASSWORD IS REQUIRED.': 'パスワード(確認用)を入力してください。',\n        'Passwords does not match.': 'パスワードが一致しません。',\n        'Email must be a valid email address format.': 'メールアドレスが正しくありません。',\n        'Standard Price is required.': '標準価格は必須です。',\n        'Express Price is required.': 'エクスプレス価格は必須です。',\n        'Personal Page Link is required.': '個人ページリンクは必要です。',\n        'Address is required.': 'アドレスは必須です。',\n        'Verify Email': 'Eメールを確認します',\n        'Username': 'ユーザー名',\n        'Email': 'メールアドレス',\n        'Export to Excel': 'Excelにエクスポート',\n        'Home': 'ホーム',\n        'Hair Dresser': 'ヘアドレッサー',\n        'Return to List': '一覧へ戻る',\n        'Skill is required.': 'スキルが必要です。',\n        'Sharpener': '研ぎ師',\n        'Review': 'レビュー',\n        'Rating': '評価する',\n        'Sharpener Name:': '研ぎ師のお名前:',\n        'Search by Status:': 'ステータスで検索：',\n        'All': 'すべて',\n        'Pending': '保留中',\n        'Open': '開いた',\n        'Rejected': '拒否された',\n        'Completed': '完了しました',\n        'Hairdresser': '美容師',\n        'Status': '状態',\n        'Type': 'タイプ',\n        'Amount': '量',\n        'Start Date' : '開始日',\n        'End Date': '終了日',\n        'Plan': 'プラン',\n        'Total Amount': '合計金額',\n        'Search by Title:': 'タイトルによる検索：',\n        'Search by Category:': 'カテゴリで検索：',\n        'Search by Body:': 'ボディで検索：',\n        'Title': 'タイトル' ,\n        'Body': '体',\n        'Category': 'カテゴリー',\n        'Registration Date': '登録日',\n        'Title is required.': 'タイトルは必須です。',\n        'Body is required.': '身体が必要です。',\n        'Category is required.': 'カテゴリは必須です。',\n        'Please write your questions here.': 'ここにあなたの質問を書いてください。',\n        'Personal Page Link': '個人ページリンク',\n        'Member Registration': '会員登録',\n        'with service type': 'サービスタイプ付き',\n        'Job Details': 'お仕事の詳細',\n        'Frequently Asked Questions': 'よくある質問',\n        'Sign up': 'サインアップ',\n        'Signup as Hairdresser': '美容師としてサインアップする',\n        'Signup as Sharpener': '研ぎ師としてサインアップする',\n        'VIEW ALL QUESTIONS': 'すべての質問を見る',\n        'SUBSCRIBE': '申し込む',\n        'Mail Address': 'メールアドレス',\n        'Register as Hairdresser': '美容師として登録する',\n        'Register as Sharpener': '研ぎ師として登録する',\n        'Don\\'t have an account?': 'アカウントをお持ちでない場合',\n        'View More': '詳細を見る',\n        'Close': '閉じる',\n        'Details': '詳細',\n        'Mission': 'ミッション',\n        'Vision': 'ビジョン',\n        'Book Now': '今予約する',\n        'Registration': '登録',\n        'About Us': '私たちに関しては',\n        'No Jobs Today': '今日はお仕事がありません。',\n        'Jobs': 'お仕事状況',\n        'Add new Job': '新しいお仕事を追加',\n        'Status:': '状況：',\n        'Profile Options': 'プロフィール',\n        'Select Time for Booking': '予約の時間を選択',\n        'Time': '時間',\n        'Pick a Time': '時間を選ぶ',\n        'Change Time': '時間を変更する',\n        'Referral Code': '紹介コード',\n        'Optional': 'オプション',\n        'Send Password Reset Link':'パスワードリセットリンクを送る',\n        'Forgot Your Password?': 'パスワードをお忘れですか？',\n        'Email Address:':'電子メールアドレス：',\n        'Enter New Password:' : '新しいパスワードを入力してください：',\n        'Confirm New Password:':'新しいパスワードを確認：',\n        'Error: The link to reset your password has expired. Please request a new link below' : 'エラー：パスワードをリセットするリンクが切れています。 下に新しいリンクをリクエストしてください',\n        'Email Field is Required' : 'メールフィールドは必須です',\n        'Token does not exist!': 'トークンは存在しません！',\n        'User does not exist!': 'ユーザーは存在しません！',\n        'Passwords do not match.' : 'パスワードが一致していません。',\n        'Forgot Password?': 'パスワードをお忘れですか？',\n        'Comment (Optional)': 'コメント (オプション)',\n        'Scissor Details': 'ハサミ詳細',\n        'Add More Scissors': 'ハサミの追加',\n        'Request New Task': '新たに研ぎを予約',\n        'Type of Scissor': 'ハサミ種類',\n        'Sharpening': '研ぎ',\n        'Rental': 'レンタル',\n        'Total Number of Scissors:': 'ハサミ総数:',\n        'Total Number of Rentals:': '総レンタル数:',\n        'Scissor Type:': 'ハサミ種類:',\n        'Quantity:': '量:',\n        'Inch:': 'インチ:',\n        'Thin Rate:': 'Thin Rate:',\n        'Handle:': 'ハンドル種類:',\n        'Your Promotion Code': 'プロモーションコード',\n        'If you book a new request today, returning day is as below:': '本日研ぎを予約された場合、ハサミの返却日は以下となります。', //\n        'Left Points': 'ポイント残高',\n        'Point Status': 'ポイント状況',\n        'point': 'ポイント',\n        'Account Info': 'アカウント情報',\n        'Telephone Number' : '電話番号',\n        'Zip Code' : '郵便番号',\n        'Zip Code is required' : '郵便番号が必要です',  \n        'Revocation Points': '失効ポイント',\n        'Date of Expiry': '有効期限',\n        'Number of Points': 'ポイント数',\n        'Date of Acquisition': 'ポイント獲得日',\n        'Exchange the point to Amazon gift': 'ポイントをAmazonギフトに交換する',\n        'Friend Introduce Status': '友人紹介状況',\n        'Friend': '友人',\n        'Friend of Friend': '友人の友人',\n        'Friend Of': '友人',\n        'Most Recent Points': '最新のポイント',\n        'Acquired Through': '獲得した',\n        'Inch': 'インチ',\n        'Thin Rate': '間引き率',\n        'Handle': 'ハンドル',\n        'The maximum number of scissors that can be sharpened per job is only 5, please adjust number of sharpening scissors again': 'ジョブごとに鋭くできるはさみの最大数はわずか5です。シャープニングハサミの数をもう一度調整してください',\n        'The maximum number of scissors that can be rented per job is only 5, please adjust number of rental scissors again': 'ジョブごとに借りることができるはさみの最大数はわずか5です。レンタルはさみの数をもう一度調整してください',\n        'Rent Scissors? :': '家賃はさみ？:',\n        'Rental Details': 'レンタルの詳細',\n        'Amazon Gift Certificates': 'Amazonギフト券',\n        'You may redeem your points in exchange for Amazon Gift Certificates': 'Amazonギフト券と引き換えにポイントを交換することができます',\n        'Exchange is possible in 1000 point units': '交換は1000ポイント単位で可能です',\n        'Replaceable Points:': '交換可能な点',\n        'Choose number of points to redeem:': '償還するポイントの数を選択してください：',\n        'Please enter set points to redeem': '設定するポイントを入力してください',\n        'Limit is 9000 point units': '限界は9000ポイント単位です',\n        'Your Task Details': 'あなたの仕事の詳細',\n        'Is it OK to book with the details below?': '下の詳細で予約することは可能ですか？',\n        'Individual Price': '個別価格',\n        'Total Price': '合計金額',\n        'Total Amount for Sharpening': 'シャープネスの合計金額',\n        'Overall Total Price': '全体の総価格',\n        'Use Points to Reduce Amount to Pay?': 'ポイントを使用して支払う金額を減らす',\n        'Enter number of points to redeem:': '償還するポイントの数を入力してください:',\n        'Redeemable points must not exceed Total Number of Points': '交換可能ポイントは合計ポイント数を超えてはならない',\n        'Redeemable points must not exceed Total Amount to pay': '償還可能ポイントは支払う総額を超えてはならない',\n        'Final Total Amount to Pay:': '支払うべき最終合計金額:',\n        'Delivery Fee': '配送料',\n        'Fees': '手数料',\n        'Book Task': 'ブックタスク',\n        'Correspondent': '特派員',\n        'Bank Account': '銀行口座',\n        'Comment': 'コメント',\n        'Correspondent is required.': '特派員が必要です。',\n        'Bank account is required.': '銀行口座が必要です。',\n        'Comment is required.': 'コメントは必須です。',\n        'Acquired Through': 'ポイント獲得手段',\n        'Street Address': '住所 (番地・マンション名・部屋番号等)',\n        'Guaranteed Date:': '返却保証日',\n        'Today\\'s Deadline Job': '今日のデッドラインジョブ',\n        'Welcome': 'ようこそ',\n        'Order Number:': '注文番号：',\n        'Hairdresser:': '美容師：',\n        'Location:': '住所:',\n        'Zip Code:': '郵便番号:',\n        'Address Details:': '住所の詳細：',\n        'Deadline:': '締め切り：',\n        'Rental Scissor Attribute': 'レンタルシザーアトリビュート'\n    });\n",
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-					"file_size": 14550,
-					"file_write_time": 131883929808291987,
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobChoiceService.php",
 					"settings":
 					{
-						"buffer_size": 10189,
+						"buffer_size": 1867,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SlugRepository.php",
 					"settings":
 					{
-						"buffer_size": 1316,
-						"encoding": "UTF-8",
+						"buffer_size": 2287,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobSeekerRepository.php",
+					"settings":
+					{
+						"buffer_size": 1943,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobService.php",
+					"settings":
+					{
+						"buffer_size": 1212,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobChoiceRepository.php",
+					"settings":
+					{
+						"buffer_size": 2005,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/UserController.php",
+					"settings":
+					{
+						"buffer_size": 5997,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\n\nnamespace App\\Http\\Controllers\\API;\n\nuse Illuminate\\Http\\Request;\nuse App\\Http\\Controllers\\Controller;\n\nuse App\\Services\\JobChoiceService;\n\nclass SlugController extends Controller\n{\n\tpublic function __construct(JobChoiceService $jobChoiceService)\n    {\n        parent::__construct();\n\n        $this->jobChoiceService = $jobChoiceService;\n    }\n\n    /**\n     * Get shared jobs from a specific user\n     * @param  Object $request Input from user\n     * @return \\Illuminate\\Http\\Response\n     */\n\tpublic function userSharedJobs(Request $request)\n\t{\n        try{\n\n            $user = $this->jobChoiceService->user()->show($request->input('id'));\n            if ($user) {\n            \t$shared_jobs = $this->jobChoiceService->slug()->getSlugWithSharedJobs($user->slug->id);\n            }\n\n            $this->data['results']['shared_jobs'] = $shared_jobs->shared_jobs;\n            $this->data['status'] = 200;\n\n        } catch (\\Exception $e) {\n            $this->data['error'] = $e->getMessage();\n        }\n\n        return response()->json($this->data, $this->data['status']);\n}\n}\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SlugController.php",
+					"file_size": 1125,
+					"file_write_time": 131945866050145489,
+					"settings":
+					{
+						"buffer_size": 1082,
 						"line_ending": "Windows"
 					}
 				}
@@ -1198,12 +1553,36 @@
 				"selected_items":
 				[
 					[
-						"install",
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
 						":w",
 						":w - Save"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"packins",
@@ -1250,150 +1629,151 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/storage",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/storage/logs"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database"
 			],
 			"file_history":
 			[
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/css/app.css",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/apiUrl.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104929_create_billings_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_12_04_094748_alter_billings_table_change_alias_to_brand_remove_token_add_fingerprint_and_default.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/helpers/apiUrlProvider.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/storage/logs/laravel.log",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_032738_alter_jobrequest_table_remove_location_and_status_fields.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_10_30_094215_create_billing_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/constants/translation.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/fintechHelper.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/PointsController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/ScissorsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RentalScissorAttributesSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/faq/manage/manage.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/User.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/Billing.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/HairDresser.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/EarnedPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/index.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/DatabaseSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/HairdresserService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/JobRequestService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/EarnedPointsService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/points/pointsHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/points/pointsHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/Api/StripeService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/BillingController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/RentalAttribute.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/routes.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/helpers/apiUrlProvider.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/points/amazonHairdresser/amazonHairdresser.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/dashboard/dashboard.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Rentals table design.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/.gitignore",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheMutex.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/JobRequest.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/bower_components/AdminLTE/plugins/datatables/extensions/ColVis/License.txt",
-				"/C/Users/montesclaros.vvs/Desktop/togear dummy account gmail.txt",
-				"/C/Users/montesclaros.vvs/Desktop/billing.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/job/specificJob/specificJob.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/JobRequestController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billing.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/how to fix or set up staging server Togear.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ComposerServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/admin/hairdresser/manage/manage.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/sharpener/dashboard/dashboard.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/routes.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/JobService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/routes/web.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/HairdresserController.php",
-				"/C/Users/montesclaros.vvs/Desktop/11.15.18.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RedeemedPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserPointsTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/config/database.php",
-				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/components/togearComponents/layouts/header/header.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/points/pointsHairdresser.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/job/all/all.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/hairdresser/billing/billingController.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/test.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Auth/ResetPasswordController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/karma-coverage/node_modules/dateformat/test/weekofyear/test_weekofyear.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_26_101613_alter_user_table_add_column_stripe_customer_id.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/stripe/stripe-php/lib/Stripe.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/es5-ext/object/ensure-natural-number-value.js",
-				"/C/Users/montesclaros.vvs/Desktop/I did before.txt",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/labshore-laravel/app.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env_development",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/constants/apiUrl.constant.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/UserAdminSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/register/register.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Oauth/LoginProxy.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/SharpenerController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Models/Geolocation.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_093055_alter_user_table_remove_confirmed_confirmation_code.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_110012_create_order_details_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_22_104943_create_orders_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/JobRequestTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_08_28_034800_add_confirmation_to_users_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_07_04_063135_create_sharpener_skills_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2014_10_12_000000_create_users_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/CategoryController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/register/register.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Providers/AppServiceProvider.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/caniuse-lite/data/features/object-observe.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/SharpenerService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/HairdresserController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/FaqService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/JobController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_101407_create_earned_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/AccountController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/admin/hairdresser/editor/editor.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_093428_create_redeemed_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/register/register.controller.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/UserService.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/league/oauth2-server/src/Exception/UniqueTokenIdentifierConstraintViolationException.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/node_modules/eslint-plugin-angular/rules/service-name.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/HairdresserTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_20_091413_create_user_points_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/vendor/phpoffice/phpexcel/Classes/PHPExcel/Chart/DataSeries.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/seeds/RoleUserTableSeeder.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_07_12_065311_create_hairdresser_table.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/database/migrations/2018_11_14_071427_alter_hairdresser_table_remove_location_add_phone.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/.tmp/app/modules/user/booking/newBookingHairdresser/newBookingHairdresser.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard/dashboard.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/dashboard-landing/dashboard-landing.html",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/app.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/partials/_button.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/job/all/all.service.js",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/assets/sass/partials/_dashboard.scss",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Events/BookedJob.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/Auth/RegisterController.php"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/JobCategoryController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/UserController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobSeekerRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/api.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/JobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobSeeker.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/User.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SnSUser.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/CompanyRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobCategory.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobCategoryRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/UserRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobCategoryService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/RegisterController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/UserService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Exceptions/Handler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/Auth/ResetPasswordController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/HatarakiKataController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Integration/Routing/Fixtures/ApiResourceTaskController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SnSUserService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobController",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/HatarakiKataResourceRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/PasswordResetService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/GeolocationRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/TokenRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Notifications/PasswordResetRequest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Geolocation.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SlugRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/web.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobChoiceRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/HatarakiKataResourceService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/HatarakiKataResourceController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/HatarakiKataResource.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SharedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/AppliedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Integration/Queue/ModelSerializationTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/HatarakiKataRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SlugService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Company.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/AppliedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SlugController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobChoiceService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phar-io/manifest/tests/xml/AuthorElementCollectionTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/HatarakiKataService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/Job Choice Staging/Server Setup and Steps on Deployment.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/.env",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/ToGear/how to fix or set up staging server Togear.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/HatarakiKata.php",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/beyondcode/laravel-dump-server/helpers.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/HatarakiKataTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nexmo/client/src/Application/ApplicationInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/DatabaseSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobSeekerTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/Controller.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Providers/AppServiceProvider.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/AppliedJobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_24_093822_update_companies_and_job_seekers_tables_changing_columns_from_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/GeolocationTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/AppliedJobSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Auth/AuthenticationException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/src/Framework/ExpectationFailedException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/FeaturedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompanyTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/FeaturedJobRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Slug.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/SharedJobsTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/PasswordReset.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/SlugTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/GeolocationService",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SharedJob.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/routing/Tests/Fixtures/AnnotationFixtures/RouteWithPrefixController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/regression/GitHub/2085-enforce-time-limit-options-via-config-without-invoker.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/lcobucci/jwt/test/unit/Claim/GreaterOrEqualsToTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_04_082753_add_fields_gender_birthdate_in_job_seekers_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/create_geolocation_table_seeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/UserSeederTable.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompaniesSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_04_074548_add_fields_gender_birthdate_in_companies_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/fzaninotto/faker/src/Faker/Provider/DateTime.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/PasswordResetRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/league/oauth2-server/src/Exception/OAuthServerException.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_01_053621_alter_job_seekers_and_companies_tables_change_column_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_09_062334_create_job_seekers_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_09_053028_create_companies_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_02_01_052557_alter_job_seekers_table_change_column_name_to_contact_no.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/FeaturedJobTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/test-order-randomized-seed-with-dependency-resolution.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpunit/phpunit/tests/end-to-end/regression/GitHub/2591-separate-function-no-preserve-no-bootstrap-xdebug.phpt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/JobCategoryTableSeeder.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_30_080813_add_description_field_in_job_categories_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/guzzlehttp/guzzle/src/Client.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpdocumentor/type-resolver/examples/05-discovering-the-context-using-method-reflection.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/tests/Auth/AuthListenersSendEmailVerificationNotificationHandleFunctionTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/AppliedJob.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_29_064526_create_applied_jobs_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/SharedJobService.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/console/Tester/ApplicationTester.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/tests/CreatesApplication.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SharedJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_28_090748_create_applied_jobs_table.php",
+				"/C/Users/montesclaros.vvs/Desktop/work for Jan. 21.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SharedJobRepository.hpp",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/ShareJobController.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Job.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/phpseclib/phpseclib/tests/Functional/Net/SCPSSH2UserStoryTest.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/league/oauth2-server/src/Repositories/UserRepositoryInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/migrations/2019_01_28_033357_change_share_mates_table_name_to_shared_jobs.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/ModelsSlug.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/Slugs.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/nexmo/client/src/Application/Webhook.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/vendor/symfony/debug/Exception/SilencedErrorContext.php"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
-				"height": 161.0,
+				"height": 182.0,
 				"where_history":
 				[
 					""
@@ -1404,90 +1784,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"*******",
-					"******",
-					"*****",
-					"****",
-					"***",
-					"**",
-					"************",
-					"***********",
-					"**********",
-					"*********",
-					"************",
-					"***********",
-					"**********",
-					"*********",
-					"********",
-					"*******",
-					"************//",
-					"Category",
-					"ADD",
-					"job_requests",
-					"Earned Points do not exist!",
-					"earne",
-					"Earned Points do not exist!",
-					"/hairdresser/points/amazon",
-					"isFetchingData",
-					"isLoading",
-					"loading",
-					"loading\\",
-					"stripe_customer_id",
-					"defaultBilling",
-					"'PUT'",
-					"put",
-					"updateCustomer",
-					"retrieveCus",
-					"updateCustomer",
-					"createCardToken",
-					"getBilling",
-					"getListCards",
-					"getListCardsgetListCards",
-					"getListCards",
-					"stripe_customer_id",
-					"createCard",
-					"stripe_id",
-					"route",
-					"href",
-					"deletebil",
+					"company",
+					"comp",
+					"where",
+					"Job",
+					"job",
+					"Job",
+					"job",
+					"user",
+					"compan",
+					"categorySearch",
+					"occupationSearch",
+					"user",
+					"job",
+					"dest",
+					"->delete()",
+					"jobChoiceRepository->delete",
+					"store",
+					"store(",
+					"store",
+					"user()->where(",
+					"use()->where(",
+					"job_seeker()->updateWhere(",
+					"job_seeker()->updateWhere()",
+					"updateWhere",
+					"updateWh",
+					"where(",
+					"search",
+					"occupationSearch",
+					"saveGeolocation",
+					"saveClientType(",
+					"saveClientType",
+					"store",
+					"where(",
+					"where",
+					"hataraki_kata()->createMany",
+					"Modelhh",
+					"getClientRecordBasedOnType",
+					"hataraki_kata",
+					"\t\t\n",
+					"hatarakiKata",
+					"hataraki_kata_resource",
+					"update(",
 					"update",
-					"throw",
-					"Nerd",
-					"nerd",
-					"desto",
-					"des",
-					"swal",
-					"deleteHairdresser",
-					"default",
-					"biling",
-					"SweetAlert",
-					"swal",
-					"year",
-					"month",
-					"card_number",
-					"createCardToken",
-					"service",
-					"Token",
-					"createTo",
-					"getBilling",
-					"create",
-					"sk_test_zXCtuM1xtYwNLzzTxtDqc7Q5",
-					"<",
-					"hairdresserUserBillingServiceo",
-					"hairdresserUserBillingServiceo ",
-					"hairdresser",
+					"hataraki_kata()->creat",
+					"hataraki_kata->create",
+					"sekup",
+					"update",
+					"userservice",
+					"updateWhere",
+					"update(",
+					"update",
+					"hataraki_kata()->create",
+					"update",
 					"user",
-					"admin",
-					"hairdresser",
-					"hair",
-					"hairdresser",
-					"vm.dtOptions",
+					"update",
+					"updtea",
+					"validat",
+					"use",
+					" \"use_sort_length\": false,",
+					"saveClientType",
+					"store",
+					"hata",
+					"hataraki_kata()->createMany",
+					"company()->createMany",
+					"job_seeker()->createMany",
+					"delete",
+					"job_seeker",
+					"update",
+					"update(",
+					"update",
+					"up",
+					"update",
+					"hatarakiKata",
+					"$",
+					";\n",
+					"update",
+					"updatewher",
+					"updateWhere",
+					"udpateWhwer",
+					"updateWhere",
+					"updateWher",
+					"update",
+					"udpate",
+					"validatorToUse",
+					"validatorToUse(",
+					"update",
+					"show",
+					"catch (Exception $e)",
+					"index",
+					"update(",
+					"update",
+					"update(",
+					"user()->where",
+					"index",
+					"tion where(",
+					"where(",
+					"all(",
+					"index",
+					"inde",
+					"validatorto",
+					"saveClientType",
+					"store",
+					"update",
 					"user",
-					"billingManagement",
-					"user",
-					"hairdresser/billing/",
-					"returnre",
-					"hairdresser/billing"
+					"'",
+					"400",
+					"update(",
+					"show(",
+					"token()->where",
+					"this is not generic",
+					"NotFoundHttpException",
+					"status",
+					"slug()->store",
+					"createMorp",
+					"store",
+					"VerifyMail",
+					"slug()->where(",
+					"<<<<<<< HEAD\n=======\nuse kkkk\\Carbon;\n\n>>",
+					"carbon",
+					"store",
+					"birth_date",
+					"SharedJobsTableSeeder",
+					"Carbon",
+					"where",
+					"createMor",
+					"job",
+					"Job",
+					"job"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1495,6 +1919,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"    {"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1505,10 +1930,7 @@
 			"folders":
 			[
 				{
-					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\ToGear\\togear-be"
-				},
-				{
-					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\ToGear\\togear-fe"
+					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\Projects\\Job Choice\\jobchoice_be"
 				}
 			],
 			"groups":
@@ -1519,64 +1941,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/modules/user/hairdresser/billing/billing.html",
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/routes/api.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7844,
-								"regions":
-								{
-									"bookmark_f":
-									{
-										"flags": 144,
-										"regions":
-										[
-											[
-												6944,
-												6944
-											]
-										]
-									}
-								},
-								"selection":
-								[
-									[
-										1243,
-										1243
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 135,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 112.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/Api/StripeService.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5179,
+								"buffer_size": 1973,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										349,
-										349
+										1525,
+										1525
 									]
 								],
 								"settings":
@@ -1586,11 +1963,45 @@
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
 									"vintage_lines.line": -1,
-									"vintage_lines.lines": 181,
+									"vintage_lines.lines": 53,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 400.0,
+								"translation.y": 653.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/RegisterController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4146,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1063,
+										1063
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 45,
+									"vintage_lines.lines": 146,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 648.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1598,11 +2009,11 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Services/BillingService.php",
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/JobSeeker.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2815,
+								"buffer_size": 823,
 								"regions":
 								{
 								},
@@ -1615,62 +2026,125 @@
 								],
 								"settings":
 								{
-									"line_numbers": false,
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 88,
-									"vintage_lines.lines": 113,
-									"vintage_lines.mode": true
+									"vintage_lines.line": -1
 								},
 								"translation.x": 0.0,
-								"translation.y": 1.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app/Http/Controllers/User/BillingController.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4015,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 130,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/routes/web.php",
+							"buffer": 3,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/User.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4347,
+								"buffer_size": 1765,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1098,
+										1104
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 48,
+									"vintage_lines.lines": 81,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 648.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Models/SnSUser.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 744,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										661,
+										661
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 31,
+									"vintage_lines.lines": 36,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 243.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/CompanyController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 859,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										686,
+										686
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"vintage_lines.line": 29,
+									"vintage_lines.lines": 37,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/database/seeds/CompanyTableSeeder.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 708,
 								"regions":
 								{
 								},
@@ -1683,85 +2157,389 @@
 								],
 								"settings":
 								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/UserService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9196,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9195,
+										9195
+									]
+								],
+								"settings":
+								{
 									"line_numbers": false,
 									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 0,
-									"vintage_lines.lines": 102,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-fe/src/app/constants/translation.constant.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10189,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10189,
-										10189
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
 									"vintage_lines.line": -1,
-									"vintage_lines.lines": 256,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1586.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/ToGear/togear-be/app.env",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1316,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										126,
-										126
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 48,
+									"vintage_lines.lines": 317,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/CompanyService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 907,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										766,
+										766
+									]
+								],
+								"settings":
+								{
+									"_anf_new": "",
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 29,
+									"vintage_lines.lines": 38,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 243.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/CompanyRepository.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2017,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2013,
+										2013
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 82,
+									"vintage_lines.lines": 84,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1652.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobRepository.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3058,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2981,
+										2981
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 123,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2192.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobChoiceService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1867,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1808,
+										1808
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage_lines.line": 77,
+									"vintage_lines.lines": 82,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1545.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/SlugRepository.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2287,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1683,
+										1961
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 75,
+									"vintage_lines.lines": 100,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1580.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobSeekerRepository.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1943,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1943,
+										1943
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 80,
+									"vintage_lines.lines": 80,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1166.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Services/JobService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1212,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1212,
+										1212
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 53,
+									"vintage_lines.lines": 53,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 437.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Repositories/JobChoiceRepository.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2005,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										995,
+										1001
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 96,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 878.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/UserController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5997,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1311,
+										2055
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 216,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5379.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice_be/sites/backend/app/Http/Controllers/API/SlugController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1082,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1078,
+										1078
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 40,
+									"vintage_lines.lines": 42,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 324.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
 							"type": "text"
 						}
 					]
@@ -1769,11 +2547,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 32.0
 			},
 			"input":
 			{
-				"height": 71.0
+				"height": 73.0
 			},
 			"layout":
 			{
@@ -1797,7 +2575,7 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -1807,11 +2585,11 @@
 				"height": 198.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,873,154,93,1341",
+			"position": "0,2,3,-1,-1,-1,-1,780,654,0,1841",
 			"project": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1821,516 +2599,516 @@
 				"selected_items":
 				[
 					[
-						"apiur",
-						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
+						"regis",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
 					],
 					[
-						"apiurlpro",
-						"togear-fe\\src\\app\\helpers\\apiUrlProvider.service.js"
+						"modeluser",
+						"sites\\backend\\app\\Models\\User.php"
 					],
 					[
-						"translatcon",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
+						"models",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"apiurl",
-						"togear-fe\\src\\app\\constants\\apiUrl.constant.js"
-					],
-					[
-						"assetcssapp",
-						"togear-fe\\src\\assets\\css\\app.css"
-					],
-					[
-						"app.en",
-						"togear-be\\app.env"
-					],
-					[
-						"app.",
-						"togear-be\\app.env"
-					],
-					[
-						"createbilling",
-						"togear-be\\database\\migrations\\2018_10_30_094215_create_billing_table.php"
-					],
-					[
-						"contranslation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
-					],
-					[
-						"contranslat",
-						"togear-fe\\.tmp\\app\\constants\\translation.constant.js"
-					],
-					[
-						"routew",
-						"togear-be\\routes\\web.php"
-					],
-					[
-						"routwe",
-						"togear-be\\routes\\web.php"
-					],
-					[
-						"billingser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"stripeser",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"billigcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingservi",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"dashboardlandcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
-					],
-					[
-						"pointhacont",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\points\\pointsHairdresser.controller.js"
-					],
-					[
-						"dashboarladingcontro",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
-					],
-					[
-						"User\\PointsController",
-						"togear-be\\app\\Http\\Controllers\\User\\PointsController.php"
-					],
-					[
-						"routweb",
-						"togear-be\\routes\\web.php"
-					],
-					[
-						"earne",
-						"togear-be\\app\\Services\\EarnedPointsService.php"
-					],
-					[
-						"src/index",
-						"togear-fe\\src\\index.html"
-					],
-					[
-						"pointsHairconto",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\points\\pointsHairdresser.controller.js"
-					],
-					[
-						"earneservi",
-						"togear-be\\app\\Services\\EarnedPointsService.php"
-					],
-					[
-						"earnseeder",
-						"togear-be\\database\\seeds\\EarnedPointsTableSeeder.php"
-					],
-					[
-						"earseeder",
-						"togear-be\\database\\seeds\\EarnedPointsTableSeeder.php"
-					],
-					[
-						"fetranslation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
-					],
-					[
-						"newbookingHiarconto",
-						"togear-fe\\src\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
-					],
-					[
-						"modelrenta",
-						"togear-be\\app\\Http\\Models\\RentalAttribute.php"
-					],
-					[
-						"scissortable",
-						"togear-be\\database\\seeds\\ScissorsTableSeeder.php"
-					],
-					[
-						"bookingcontr",
-						"togear-fe\\src\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
-					],
-					[
-						"jobreqser",
-						"togear-be\\app\\Services\\JobRequestService.php"
-					],
-					[
-						"hair",
-						"togear-be\\app\\Services\\HairdresserService.php"
-					],
-					[
-						"RentalScissorAttributesSeeder",
-						"togear-be\\database\\seeds\\RentalScissorAttributesSeeder.php"
-					],
-					[
-						"dbseeder",
-						"togear-be\\database\\seeds\\DatabaseSeeder.php"
-					],
-					[
-						"apiUrlProvider",
-						"togear-fe\\.tmp\\app\\helpers\\apiUrlProvider.service.js"
-					],
-					[
-						"Hairdresser/newBookingHairdresser.controller.js",
-						"togear-fe\\.tmp\\app\\modules\\user\\booking\\newBookingHairdresser\\newBookingHairdresser.controller.js"
-					],
-					[
-						"amazonHairdresserController",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\points\\amazonHairdresser\\amazonHairdresser.controller.js"
-					],
-					[
-						"routejs",
-						"togear-fe\\src\\routes.js"
-					],
-					[
-						"tranlation",
-						"togear-fe\\src\\app\\constants\\translation.constant.js"
-					],
-					[
-						"routewe",
-						"togear-be\\routes\\web.php"
-					],
-					[
-						"modelsbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
-					],
-					[
-						"routeweb",
-						"togear-be\\routes\\web.php"
-					],
-					[
-						"modelbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
-					],
-					[
-						"mohairder",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
-					],
-					[
-						"febillingservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"bilincontro",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcon",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingseriv",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RoutingServiceProvider.php"
-					],
-					[
-						"stipeser",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"billingserv",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"billingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"bebillingcontroller",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"stripec",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"bilingser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"billincont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingserov",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RoutingServiceProvider.php"
-					],
-					[
-						"stripeservice",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"stripeService",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
-					],
-					[
-						"billingService",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"febilligncontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"febilingcon",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"bilincont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billinghtm",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"febilinservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
-					],
-					[
-						"billinght",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
-					],
-					[
-						"bebilcontroller",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingcontroll",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"billingsevi",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"bebillingconto",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billingconto",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
-					],
-					[
-						"bilingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
-					],
-					[
-						"billinser",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"billinservi",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"servicebiling",
-						"togear-be\\app\\Services\\BillingService.php"
-					],
-					[
-						"modelshair",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
-					],
-					[
-						"modesbilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
-					],
-					[
-						"modehairder",
-						"togear-be\\app\\Http\\Models\\HairDresser.php"
+						"regi",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
 					],
 					[
 						"modelsuser",
-						"togear-be\\app\\Http\\Models\\User.php"
+						"sites\\backend\\app\\Models\\SnSUser.php"
 					],
 					[
-						"febillinser",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"api",
+						"sites\\backend\\routes\\api.php"
 					],
 					[
-						"febillinconto",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"usercon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
 					],
 					[
-						"billinghtml",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
+						"compaser",
+						"sites\\backend\\app\\Services\\CompanyService.php"
 					],
 					[
-						"billinghmt",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Console\\Scheduling\\CacheMutex.php"
+						"compancon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\CompanyController.php"
 					],
 					[
-						"bebilingser",
-						"togear-be\\app\\Services\\BillingService.php"
+						"jobrepo",
+						"sites\\backend\\app\\Repositories\\JobRepository.php"
 					],
 					[
-						"bebillingcontro",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"compacont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\CompanyController.php"
 					],
 					[
-						"fintech",
-						"togear-fe\\.tmp\\app\\helpers\\fintechHelper.service.js"
+						"companyre",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
 					],
 					[
-						"febillingcontor",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobservi",
+						"sites\\backend\\app\\Services\\JobService.php"
 					],
 					[
-						"billingh",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
+						"jobser",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"migrationbiling",
-						"togear-be\\database\\migrations\\2018_10_30_094215_create_billing_table.php"
+						"companyser",
+						"sites\\backend\\app\\Services\\CompanyService.php"
 					],
 					[
-						"bilingserv",
-						"togear-be\\app\\Services\\BillingService.php"
+						"jobchoceser",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
 					],
 					[
-						"modelsbilli",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"companrepo",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
+					],
+					[
+						"slugrepo",
+						"sites\\backend\\app\\Repositories\\SlugRepository.php"
+					],
+					[
+						"compare",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
+					],
+					[
+						"compser",
+						"sites\\backend\\app\\Services\\CompanyService.php"
+					],
+					[
+						"compacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\CompanyController.php"
+					],
+					[
+						"user",
+						"sites\\backend\\app\\Services\\UserService.php"
+					],
+					[
+						"companse",
+						"sites\\backend\\database\\seeds\\CompanyTableSeeder.php"
+					],
+					[
+						"jobchorepo",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
+					],
+					[
+						"jobcho",
+						"sites\\backend\\app\\Repositories\\JobChoiceRepository.php"
+					],
+					[
+						"usercont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
+					],
+					[
+						"SlugController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\SlugController.php"
+					],
+					[
+						"jobservice",
+						"sites\\backend\\app\\Services\\JobService.php"
+					],
+					[
+						"JobRepository",
+						"sites\\backend\\app\\Repositories\\JobRepository.php"
+					],
+					[
+						"JobController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
+					],
+					[
+						"jobcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
+					],
+					[
+						"ap",
+						"sites\\backend\\routes\\api.php"
+					],
+					[
+						"userser",
+						"sites\\backend\\app\\Services\\UserService.php"
+					],
+					[
+						"register",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
+					],
+					[
+						"jobcas",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
+					],
+					[
+						"jobcaer",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
+					],
+					[
+						"jobcacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"jobcaser",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
+					],
+					[
+						"jobcacont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"userrepot",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
+					],
+					[
+						"jobcarepo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
+					],
+					[
+						"jobcateser",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
+					],
+					[
+						"jobcatecon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"jobcateserv",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
+					],
+					[
+						"jobcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobController.php"
+					],
+					[
+						"jobcatec",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"resetpasswo",
+						"sites\\backend\\app\\Http\\Controllers\\Auth\\ResetPasswordController.php"
+					],
+					[
+						"modelsjocat",
+						"sites\\backend\\app\\Models\\JobCategory.php"
+					],
+					[
+						"jobcaseriv",
+						"sites\\backend\\app\\Services\\JobCategoryService.php"
+					],
+					[
+						"joccon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"modelsjobcat",
+						"sites\\backend\\app\\Models\\JobCategory.php"
+					],
+					[
+						"jobcatcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"jobcatcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
+					],
+					[
+						"useservi",
+						"sites\\backend\\app\\Services\\UserService.php"
+					],
+					[
+						"",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
+					],
+					[
+						"jobcate",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
+					],
+					[
+						"regicont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
+					],
+					[
+						"jobcatego",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
+					],
+					[
+						"hand",
+						"sites\\backend\\app\\Exceptions\\Handler.php"
+					],
+					[
+						"modelsjobca",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
 						"modelsjob",
-						"togear-be\\app\\Http\\Models\\JobRequest.php"
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"routewb",
-						"togear-be\\routes\\web.php"
+						"moelsjobca",
+						"sites\\backend\\app\\Models\\JobCategory.php"
 					],
 					[
-						"billingservice",
-						"togear-be\\app\\Services\\BillingService.php"
+						"jobcarpeo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"billinsevicen",
-						"togear-fe\\bower_components\\AdminLTE\\plugins\\datatables\\extensions\\ColVis\\License.txt"
+						"jobcatrepo",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"modebilling",
-						"togear-be\\app\\Http\\Models\\Billing.php"
+						"hatacon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataController.php"
 					],
 					[
-						"billingsevjs",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"JobCategoryController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\JobCategoryController.php"
 					],
 					[
-						"bebillingserv",
-						"togear-be\\app\\Services\\BillingService.php"
+						"apirou",
+						"sites\\backend\\vendor\\laravel\\framework\\tests\\Integration\\Routing\\Fixtures\\ApiResourceTaskController.php"
 					],
 					[
-						"billingcontrl",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"UserRepository",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"billinconto",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"JobSeekerRepository",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"route",
-						"togear-fe\\src\\routes.js"
+						"modelsJobSeeker",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"billingcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobseerepo",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"febillingcont",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"compa",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
 					],
 					[
-						"stripeservi",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"modelsjobse",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"stripes",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"hatareourepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
 					],
 					[
-						"jobservice.js",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\job\\specificJob\\specificJob.service.js"
+						"use",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"JobRequestService",
-						"togear-be\\app\\Services\\JobRequestService.php"
+						"jobserepot",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
 					],
 					[
-						"JobRequestController",
-						"togear-be\\app\\Http\\Controllers\\User\\JobRequestController.php"
+						"useser",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"febillingservi",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"UserService",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"febillincontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobserv",
+						"sites\\backend\\app\\Services\\JobService.php"
 					],
 					[
-						"febillingcontroller",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"jobcare",
+						"sites\\backend\\app\\Repositories\\JobCategoryRepository.php"
 					],
 					[
-						"stripeserv",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"passwserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"bebillingcont",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"geolorepo",
+						"sites\\backend\\app\\Repositories\\GeolocationRepository.php"
 					],
 					[
-						"striperservi",
-						"togear-be\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Providers\\ComposerServiceProvider.php"
+						"pasworeserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"bebillingcontrol",
-						"togear-be\\app\\Http\\Controllers\\User\\BillingController.php"
+						"UserController",
+						"sites\\backend\\app\\Http\\Controllers\\API\\UserController.php"
 					],
 					[
-						".env",
-						"togear-be\\.env"
+						"userrpeo",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"stripe",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"comparepo",
+						"sites\\backend\\app\\Repositories\\CompanyRepository.php"
 					],
 					[
-						"stripservice",
-						"togear-be\\app\\Services\\Api\\StripeService.php"
+						"jobsee",
+						"sites\\backend\\app\\Models\\JobSeeker.php"
 					],
 					[
-						"billihtml",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.html"
+						"tokenrepo",
+						"sites\\backend\\app\\Repositories\\TokenRepository.php"
 					],
 					[
-						"febillicontro",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.controller.js"
+						"userrepo",
+						"sites\\backend\\app\\Repositories\\UserRepository.php"
 					],
 					[
-						"febiilingser",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"passwreserv",
+						"sites\\backend\\app\\Services\\PasswordResetService.php"
 					],
 					[
-						"febillservice",
-						"togear-fe\\src\\app\\modules\\user\\hairdresser\\billing\\billing.service.js"
+						"passreser",
+						"sites\\backend\\app\\Notifications\\PasswordResetRequest.php"
 					],
 					[
-						"dashboarcontrolle",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"userserv",
+						"sites\\backend\\app\\Services\\UserService.php"
 					],
 					[
-						"dashboaracont",
-						"togear-fe\\.tmp\\app\\modules\\user\\hairdresser\\dashboard-landing\\dashboard-landing.controller.js"
+						"hatareoucon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
 					],
 					[
-						"dashboarco",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"hatareoicont",
+						"sites\\backend\\vendor\\phar-io\\manifest\\tests\\xml\\AuthorElementCollectionTest.php"
 					],
 					[
-						"dashcontroller",
-						"togear-fe\\.tmp\\app\\modules\\user\\sharpener\\dashboard\\dashboard.controller.js"
+						"modelhatare",
+						"sites\\backend\\app\\Models\\HatarakiKataResource.php"
+					],
+					[
+						"hataresousr",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatararerepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hatarescont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarakatcon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataController.php"
+					],
+					[
+						"web",
+						"sites\\backend\\routes\\web.php"
+					],
+					[
+						"HatarakiKataResourceService",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatarakireop",
+						"sites\\backend\\app\\Repositories\\HatarakiKataRepository.php"
+					],
+					[
+						"hatrarepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataRepository.php"
+					],
+					[
+						"hatreser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatatresouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService.php"
+					],
+					[
+						"hatareser",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"jobsrepo",
+						"sites\\backend\\app\\Repositories\\JobSeekerRepository.php"
+					],
+					[
+						"appservHatarakiKataResourceService",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"job",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"jobch",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"hatareouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"jobchoiser",
+						"sites\\backend\\app\\Services\\JobChoiceService.php"
+					],
+					[
+						"hatrarecont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatrecon",
+						"sites\\backend\\app\\Http\\Controllers\\API\\RegisterController.php"
+					],
+					[
+						"hataresouser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareouc",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hataresou",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hataresourcont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hataresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareoucont",
+						"sites\\backend\\app\\Http\\Controllers\\API\\HatarakiKataResourceController.php"
+					],
+					[
+						"hatarreser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatareserre",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hataser",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
+					],
+					[
+						"hatarerepo",
+						"sites\\backend\\app\\Repositories\\HatarakiKataResourceRepository.php"
+					],
+					[
+						"hatararesrser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatarresser",
+						"sites\\backend\\app\\Services\\HatarakiKataResourceService"
+					],
+					[
+						"hatarser",
+						"sites\\backend\\app\\Services\\HatarakiKataService.php"
 					]
 				],
 				"width": 0.0
@@ -2359,14 +3137,14 @@
 			},
 			"show_minimap": true,
 			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 532.0,
+			"show_tabs": false,
+			"side_bar_visible": false,
+			"side_bar_width": 467.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 11,
+			"window_id": 29,
 			"workspace_name": ""
 		}
 	],
