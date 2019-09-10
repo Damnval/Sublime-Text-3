@@ -5,16 +5,16 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
 		"DocBlockr",
-		"Hide Menu",
 		"Material Theme",
-		"Materialize",
 		"Package Control",
+		"PackageResourceViewer",
 		"PHP Companion",
-		"PhpDoc",
-		"Transparency",
+		"React ES6 Snippets",
+		"Theme - Dark Material",
 		"VintageLines"
 	]
 }
