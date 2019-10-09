@@ -1,11 +1,12 @@
 {
 	"folder_history":
 	[
-		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn",
-		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be",
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe",
-		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe",
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be",
+		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe",
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be",
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe",
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component",
@@ -13,7 +14,7 @@
 		"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Models"
 	],
 	"last_version": 3207,
-	"last_window_id": 92,
+	"last_window_id": 101,
 	"log_indexing": false,
 	"settings":
 	{
@@ -181,8 +182,16 @@
 				"selected_items":
 				[
 					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"mate",
+						"Material Theme: Activate theme"
 					],
 					[
 						":w",
@@ -198,10 +207,6 @@
 					],
 					[
 						"acti",
-						"Material Theme: Activate theme"
-					],
-					[
-						"mate",
 						"Material Theme: Activate theme"
 					],
 					[
@@ -313,12 +318,27 @@
 			},
 			"file_history":
 			[
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/Job Choice Staging/Server Setup and Steps on Deployment.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/storage/logs/laravel-2019-09-19.log",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/storage/logs/laravel-2019-09-20.log",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/montesclaros.vvs/Desktop/synergy flow.txt",
+				"/C/Users/montesclaros.vvs/Desktop/question Synergy.txt",
+				"/C/Users/montesclaros.vvs/Desktop/sysnergy_question_tuesday.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/UserService.php",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/EasyMotion/README.md",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Repositories/BaseRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Repositories/Contract/BaseRepositoryInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/Notification/Notification.js",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.css",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.js",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/components/SignUpForm.js",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/public/js/app.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/node_modules/renderkid/lib/Layout.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/psy/psysh/test/ConfigurationTest.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Controllers/API/UserController.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/mockery/mockery/docs/getting_started/simple_example.rst",
-				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/MiniComponents/Required/Required.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/MiniComponents/Required/Required.css",
@@ -363,7 +383,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Registration/RegistrationDetail/RegistrationDetailForm/RegistrationDetailForm.css",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
-				"/C/Users/montesclaros.vvs/Desktop/synergy flow.txt",
 				"/C/Users/montesclaros.vvs/Desktop/new learning.txt",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Login/LoginForm/LoginForm.css",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Login/LoginForm.js",
@@ -426,10 +445,7 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Exceptions/Handler.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Requests/RegisterAccountUser.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/app/Repositories/Contract/BaseRepositoryInterface.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/app/Http/Controllers/API/JobController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/resources/views/welcome.blade.php"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/.env"
 			],
 			"find":
 			{
@@ -447,10 +463,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\"",
-					")",
-					"(",
-					"this"
+					"fnc",
+					"END",
+					"NED"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -467,13 +482,13 @@
 			},
 			"incremental_find":
 			{
-				"height": 70.0
+				"height": 32.0
 			},
 			"input":
 			{
 				"height": 73.0
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.find_results":
 			{
 				"height": 0.0
@@ -481,7 +496,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 114.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -491,19 +506,103 @@
 				"selected_items":
 				[
 					[
-						"carea",
-						"synergy_fe\\node_modules\\lodash\\_compareAscending.js"
+						"useseeder",
+						"sc_rsvn\\Synergy_be\\database\\seeds\\UserTableSeeder.php"
 					],
 					[
 						"api",
 						"Synergy_be\\routes\\api.php"
 					],
 					[
-						"axio",
+						"singup",
+						"Synergy_be\\vendor\\phpspec\\prophecy\\src\\Prophecy\\Util\\StringUtil.php"
+					],
+					[
+						"userser",
+						"Synergy_be\\app\\Services\\UserService.php"
+					],
+					[
+						"tokenser",
+						"sc_rsvn\\Synergy_be\\app\\Services\\TokenService.php"
+					],
+					[
+						"help",
+						"sites\\backend\\app\\helpers.php"
+					],
+					[
+						"apphelper",
+						"sc_rsvn\\Synergy_be\\app\\helpers.php"
+					],
+					[
+						"helper",
+						"jobchoice2_be\\sites\\backend\\vendor\\beyondcode\\laravel-dump-server\\helpers.php"
+					],
+					[
+						"helpers",
+						"sc_rsvn\\Synergy_be\\vendor\\symfony\\console\\Helper\\HelperSet.php"
+					],
+					[
+						"heloer",
+						"sc_rsvn\\synergy_fe\\node_modules\\@babel\\runtime\\helpers\\readOnlyError.js"
+					],
+					[
+						"regisema",
+						"Synergy_be\\app\\Http\\Requests\\Token\\RegisterEmail.php"
+					],
+					[
+						"regisaccou",
+						"Synergy_be\\app\\Http\\Requests\\User\\RegisterAccount.php"
+					],
+					[
+						"regisform",
+						"synergy_fe\\src\\Screens\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
+					],
+					[
+						"usrser",
+						"Synergy_be\\app\\Services\\UserService.php"
+					],
+					[
+						"usercotn",
+						"Synergy_be\\vendor\\ramsey\\uuid\\src\\Converter\\NumberConverterInterface.php"
+					],
+					[
+						"mst_shop_week_times",
+						"Synergy_be\\database\\migrations\\2019_09_11_074726_create_mst_shop_week_times_table.php"
+					],
+					[
+						"mst_shop_times",
+						"Synergy_be\\database\\migrations\\2019_09_11_063615_create_mst_shop_times_table.php"
+					],
+					[
+						"migratable",
+						"sites\\backend\\database\\migrations\\2019_01_09_034504_create_tokens_table.php"
+					],
+					[
+						"",
+						"synergy_fe\\src\\Screens\\SignUp\\components\\SignUpForm.js"
+					],
+					[
+						"handler.php",
+						"Synergy_be\\app\\Exceptions\\Handler.php"
+					],
+					[
+						"axios.js",
 						"synergy_fe\\src\\Utils\\Axios.js"
 					],
 					[
+						"login.js",
+						"synergy_fe\\src\\Screens\\Login\\Login.js"
+					],
+					[
 						"axi",
+						"synergy_fe\\src\\Utils\\Axios.js"
+					],
+					[
+						"carea",
+						"synergy_fe\\node_modules\\lodash\\_compareAscending.js"
+					],
+					[
+						"axio",
 						"synergy_fe\\src\\Utils\\Axios.js"
 					],
 					[
@@ -567,10 +666,6 @@
 						"synergy_fe\\src\\Utils\\FormHandlers\\DatePicker.js"
 					],
 					[
-						"",
-						"src\\Component\\TopPage\\UserName\\UserName.js"
-					],
-					[
 						"getr",
 						"node_modules\\loader-utils\\lib\\getRemainingRequest.js"
 					],
@@ -589,10 +684,6 @@
 					[
 						"loginform.js",
 						"src\\Component\\Login\\LoginForm\\LoginForm.js"
-					],
-					[
-						"login.js",
-						"src\\Component\\Login\\Login.js"
 					],
 					[
 						"login",
@@ -632,10 +723,6 @@
 					],
 					[
 						"regisf",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"regisform",
 						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
 					],
 					[
@@ -839,10 +926,6 @@
 						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetail.js"
 					],
 					[
-						"singup",
-						"src\\Component\\SignUp\\SignUp.js"
-					],
-					[
 						"singupform",
 						"src\\Component\\SignUp\\SignUpForm\\SignUpForm.js"
 					],
@@ -933,74 +1016,6 @@
 					[
 						"usercon",
 						"app\\Http\\Controllers\\API\\UserController.php"
-					],
-					[
-						"tokencon",
-						"app\\Http\\Controllers\\API\\TokenController.php"
-					],
-					[
-						"tokenrepo",
-						"app\\Http\\Repositories\\TokenRepository.php"
-					],
-					[
-						"tokenser",
-						"app\\Services\\TokenService.php"
-					],
-					[
-						"handle",
-						"app\\Exceptions\\Handler.php"
-					],
-					[
-						"tokencont",
-						"app\\Http\\Controllers\\API\\TokenController.php"
-					],
-					[
-						"userserv",
-						"app\\Services\\UserService.php"
-					],
-					[
-						"modeluser",
-						"app\\Models\\User.php"
-					],
-					[
-						"sig",
-						"src\\Component\\SignUp\\SignUp.js"
-					],
-					[
-						"regisfrom",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationFormVerify\\RegistrationFormVerify.js"
-					],
-					[
-						"regist",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"handleform",
-						"src\\Utils\\FormHandlers\\HandleFormData.js"
-					],
-					[
-						"formda\\",
-						"node_modules\\form-data\\License"
-					],
-					[
-						"regisformn",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"registveri",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationFormVerify\\RegistrationFormVerify.js"
-					],
-					[
-						"regisstrat",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetail.js"
-					],
-					[
-						"registrefor",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"registrade",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetail.js"
 					]
 				],
 				"width": 0.0
@@ -1025,7 +1040,7 @@
 			},
 			"show_minimap": true,
 			"show_open_files": false,
-			"show_tabs": false,
+			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 272.0,
 			"status_bar_visible": true,
@@ -1191,116 +1206,101 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/layouts/Default/Default.js",
-					"settings":
-					{
-						"buffer_size": 1030,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/TopPage/TopPage.js",
-					"settings":
-					{
-						"buffer_size": 1168,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/Login/Login.js",
-					"settings":
-					{
-						"buffer_size": 1950,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/DashBoard/DashBoard.js",
-					"settings":
-					{
-						"buffer_size": 276,
-						"line_ending": "Windows"
-					}
-				},
-				{
 					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/routes/api.php",
 					"settings":
 					{
-						"buffer_size": 859,
-						"encoding": "UTF-8",
+						"buffer_size": 1489,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?php\n\nuse App\\Models\\User;\nuse Illuminate\\Database\\Seeder;\n\nclass UserTableSeeder extends Seeder\n{\n    /**\n     * Run the database seeds.\n     *\n     * @return void\n     */\n    public function run()\n    {\n    \t// create a loop for dummy accounts\n    \t//  for admin\n    \tfactory(User::class)->create([\n            'email' => 'admin@gmail.com',\n            'type' => 'admin',\n        ]);\n    \t//  for client \n        for ($i=0; $i < 2; $i++) { \n            factory(user::class)->create([\n                'email' => 'testuser' . $i .'@gmail.com',\n                'type' => 'client',\n            ]);\n    \t}\n\t }\n}\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/database/seeds/UserTableSeeder.php",
+					"file_size": 589,
+					"file_write_time": 132137648884428141,
+					"settings":
+					{
+						"buffer_size": 610,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"contents": "import axios from 'axios';\nimport React from 'react';\n\nimport Notification from 'Component/Notification/Notification';\nimport 'react-notifications/lib/notifications.css';\nimport {NotificationContainer, NotificationManager} from 'react-notifications';\n// create new instance\nconst Http = axios.create();\nconst token = localStorage.getItem('access_token');\n\n// set default config\nHttp.defaults.baseURL = process.env.REACT_APP_API_URL;\nHttp.defaults.headers.common.Accept = 'application/json';\nif (token) {\n\tHttp.defaults.headers.common.Authorization = `Bearer ${token}`;\n}\n\nHttp.interceptors.response.use(undefined, error => {\n\tif (typeof error.response === 'undefined') {\n\t\treturn Notification('error', 'A network error occured.');\n\t}\n\n\tswitch (error.response.status) {\n\t\tcase 500:\n\t\t\tNotification('error', error.response.data.error);\n\t}\n\n\treturn Promise.reject(error)\n})\n\n\n// Export axios as Http name\nexport default Http;",
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Utils/Axios.js",
-					"file_size": 959,
-					"file_write_time": 132122268533531477,
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php",
 					"settings":
 					{
-						"buffer_size": 922,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Exceptions/Handler.php",
-					"settings":
-					{
-						"buffer_size": 2467,
+						"buffer_size": 1615,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/Notification/Notification.js",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/routes/api.php",
 					"settings":
 					{
-						"buffer_size": 715,
+						"buffer_size": 6744,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src/screens/client/billing/Billing.js",
+					"settings":
+					{
+						"buffer_size": 6241,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.css",
+					"contents": "ashdfkahskdhf asdhfasdf\njkashdf\nasdhfkjashdf\nHello {{ name }}\n\n{{ link }}\n\n\n\n\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/hello.html",
+					"file_size": 153,
+					"file_write_time": 132149972863397017,
 					"settings":
 					{
-						"buffer_size": 233,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.js",
-					"settings":
-					{
-						"buffer_size": 1753,
+						"buffer_size": 78,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/components/SignUpForm.js",
+					"file": "/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 1641,
-						"encoding": "UTF-8",
+						"buffer_size": 712,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/UserService.php",
+					"settings":
+					{
+						"buffer_size": 3861,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Utils/EndPoints/usePost.js",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/phpspec/prophecy/src/Prophecy/Util/StringUtil.php",
 					"settings":
 					{
-						"buffer_size": 713,
+						"buffer_size": 2723,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\n\nnamespace App\\Services;\n\nuse Carbon\\Carbon;\nuse Illuminate\\Support\\Facades\\Mail;\nuse App\\Repositories\\SynergyRepository;\nuse App\\Mail\\Token\\RegisterEmail\\NewUserNotification;\nuse App\\Mail\\Token\\fncgAddCustomTokenOnReissuePasswordEmail\\SendReissuePasswordEmail;\n\nclass TokenService\n{\n\t/**\n\t * All services are loaded in one single class\n\t */\n\tpublic function __construct(SynergyRepository $synergyRepository)\n\t{\n\t\t$this->cls_synergyRepository = $synergyRepository;\n\t}\n\n\t/**\n\t * Logic and service that sends a link to newly registered email address\n\t * @param  Object $request User Client Input\n\t */\n\tpublic function fncgAddCustomToken($request)\n\t{\n\t\t$ary_data = $request->all();\n        $ary_data['token'] = md5(Carbon::now() . str_random(40));\n\t    $ary_data['active'] =  1;\n\n\t\t$str_token = $this->cls_synergyRepository->token()->create($ary_data);\n\t\t// Sending email using Mailable\n\t\t$str_email = $request->Input('value');\n\t\t// Generates a link and send to emai\n\t\t$body = MstMailTmp::where([])->get()->mail_body;\n\t\tparser($body)\n        Mail::send(new NewUserNotification($str_token, $str_email));\n\t}\n\n\t/**\n\t * Check if token exist\n\t * @param  Object $request \n\t * @return String $token->email Email with respect to the token generated\n\t */\n\tpublic function fncgChkToken($request)\n\t{\n\t\t$str_token = $request->token;\n\t\t$where = [\n\t\t\t'token' => $str_token\n\t\t];\n\n\t\t// query if token really exists\n\t\t$obj_token = $this->cls_synergyRepository->token()->whereFirst($where);\n\t\t\n\t\tif ($obj_token) {\n\t\t\treturn $obj_token->value;\n\t\t}\n\n\t\tthrow new \\Exception('token doesn\\'t exist');\n\t}\n\n\t/**\n\t * Send email for reissue password\n\t * @param  Object $request \n\t * @return String $token->email Email with respect to the token generated\n\t */\n\tpublic function fncgReissuePasswordEmail($request)\n\t{\n\t\t$ary_data = $request->all();\n\t\t$ary_data['token'] = md5(Carbon::now() . str_random(40));\n\t\t$ary_data['active'] =  1;\n\t\t\n\t\t$obj_token = $this->cls_synergyRepository->token()->create($ary_data);\n\t\t// Sending email using Mailable\n\t\t$str_email = $request->Input('value');\n\t\t// Generates a link and send to email\n\t\tMail::send(new SendReissuePasswordEmail($obj_token, $str_email));\n\t}\n\n\t/**\n\t * Generate token used for authenticating the URL\n\t * @param  Object $request \n\t * @return String $obj_token->token \n\t */\n\tpublic function fncgAddToken()\n\t{\n\t\t$ary_data['token'] = md5(Carbon::now() . str_random(40));\n\t\t$ary_data['active'] =  1;\n\t\t$obj_token = $this->cls_synergyRepository->token()->create($ary_data);\n\n\t\treturn $obj_token->token;\n\t}\n\n\t/**\n\t * Verify the  token used for authenticating the URL\n\t * @param  Object $request \n\t * @return Boolean \n\t */\n\tpublic function fncgAddTokenVerification($request)\n\t{\n\t\t$ary_where = [\n\t\t\t'token' => $request->input('token')\n\t\t];\n\n\t\t$obj_token = $this->cls_synergyRepository->token()->whereFirst($ary_where);\n\n\t\tif($obj_token){\n\t\t\t$this->cls_synergyRepository->token()->destroy($obj_token->id);\n\n\t\t\treturn true;\n\t\t}\t\n\t\treturn false;\n\t}\n}\n",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/TokenService.php",
+					"file_size": 3013,
+					"file_write_time": 132148996039727385,
+					"settings":
+					{
+						"buffer_size": 2967,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/node_modules/lodash/_compareAscending.js",
+					"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Mail/Token/RegisterEmail/NewUserNotification.php",
 					"settings":
 					{
-						"buffer_size": 1343,
+						"buffer_size": 813,
 						"line_ending": "Unix"
 					}
 				}
@@ -1317,12 +1317,20 @@
 				"selected_items":
 				[
 					[
-						":w",
-						":w - Save"
+						"setting",
+						"Preferences: Settings"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
+					],
+					[
+						"mate",
+						"Material Theme: Activate theme"
+					],
+					[
+						":w",
+						":w - Save"
 					],
 					[
 						"color",
@@ -1334,10 +1342,6 @@
 					],
 					[
 						"acti",
-						"Material Theme: Activate theme"
-					],
-					[
-						"mate",
 						"Material Theme: Activate theme"
 					],
 					[
@@ -1449,21 +1453,44 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/Notification",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/.idea",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src/screens",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src/screens/client",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src/screens/client/billing"
 			],
 			"file_history":
 			[
+				"/C/Users/montesclaros.vvs/Desktop/staging_synergy.txt",
+				"/C/Users/montesclaros.vvs/Desktop/vscConfig.txt",
+				"/C/Users/montesclaros.vvs/Desktop/sysnergy_question.txt",
+				"/C/Users/montesclaros.vvs/Desktop/List of added or modified files- Synergy Project.txt",
+				"/C/Users/montesclaros.vvs/Desktop/new learning.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/storage/logs/laravel-2019-09-24.log",
+				"/C/Users/montesclaros.vvs/Desktop/production.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/Job Choice Staging/Server Setup and Steps on Deployment.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/storage/logs/laravel-2019-09-19.log",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/storage/logs/laravel-2019-09-20.log",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/montesclaros.vvs/Desktop/synergy flow.txt",
+				"/C/Users/montesclaros.vvs/Desktop/question Synergy.txt",
+				"/C/Users/montesclaros.vvs/Desktop/sysnergy_question_tuesday.txt",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/UserService.php",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/EasyMotion/README.md",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Repositories/BaseRepository.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Repositories/Contract/BaseRepositoryInterface.php",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/Notification/Notification.js",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.css",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.js",
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/components/SignUpForm.js",
+				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/public/js/app.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/node_modules/renderkid/lib/Layout.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/psy/psysh/test/ConfigurationTest.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Http/Controllers/API/UserController.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/mockery/mockery/docs/getting_started/simple_example.rst",
-				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/MiniComponents/Required/Required.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/MiniComponents/Required/Required.css",
@@ -1508,8 +1535,6 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Registration/RegistrationDetail/RegistrationDetailForm/RegistrationDetailForm.css",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
 				"/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
-				"/C/Users/montesclaros.vvs/Desktop/synergy flow.txt",
-				"/C/Users/montesclaros.vvs/Desktop/new learning.txt",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Login/LoginForm/LoginForm.css",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/Component/Login/LoginForm.js",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/synergy_fe/src/index.css",
@@ -1565,16 +1590,7 @@
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Models/Token.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/vendor/symfony/debug/ExceptionHandler.php",
 				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Requests/User/RegisterAccount.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Repositories/Contract/BaseRepositoryInterface.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Repositories/BaseRepository.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Exceptions/Handler.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Requests/RegisterAccountUser.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/.env",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/app/Repositories/Contract/BaseRepositoryInterface.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/app/Http/Controllers/API/JobController.php",
-				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/resources/views/welcome.blade.php"
+				"/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/Synergy_be/app/Http/Requests/User/RegisterAccount.php"
 			],
 			"find":
 			{
@@ -1592,10 +1608,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\"",
-					")",
-					"(",
-					"this"
+					"fnc",
+					"END",
+					"NED"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1614,324 +1629,27 @@
 			[
 				{
 					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\Projects\\Synergy\\sc_rsvn"
+				},
+				{
+					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\Projects\\Job Choice\\jobchoice2_be"
+				},
+				{
+					"path": "C:\\Users\\montesclaros.vvs\\Desktop\\Work\\Projects\\Job Choice\\jobchoice2_fe"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 4,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/layouts/Default/Default.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1030,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										800,
-										800
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": 23,
-									"vintage_lines.lines": 36,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 162.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/TopPage/TopPage.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1168,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										484,
-										484
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 44,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/Login/Login.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1950,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										467,
-										467
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 80,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/DashBoard/DashBoard.js",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 276,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										245,
-										245
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"vintage_lines.line": 14,
-									"vintage_lines.lines": 18,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/routes/api.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 859,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										639,
-										639
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"vintage_lines.line": 19,
-									"vintage_lines.lines": 26,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Utils/Axios.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 922,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										570,
-										570
-									]
-								],
-								"settings":
-								{
-									"history_list_is_closing": true,
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"vintage_lines.line": 15,
-									"vintage_lines.lines": 32,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Exceptions/Handler.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2467,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1337,
-										1337
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 55,
-									"vintage_lines.lines": 91,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1134.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						}
-					]
-				},
-				{
 					"selected": 1,
 					"sheets":
 					[
 						{
-							"buffer": 5,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Utils/Axios.js",
+							"buffer": 0,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/routes/api.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 922,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										834,
-										834
-									]
-								],
-								"settings":
-								{
-									"history_list_is_closing": true,
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"vintage_lines.line": -1,
-									"vintage_lines.lines": 32,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Component/Notification/Notification.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 715,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										496,
-										441
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true,
-									"vintage_lines.line": 14,
-									"vintage_lines.lines": 26,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 233,
+								"buffer_size": 1489,
 								"regions":
 								{
 								},
@@ -1944,106 +1662,217 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"history_list_is_closing": true,
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 29,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 81.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/database/seeds/UserTableSeeder.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 610,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										301,
+										301
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 29,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1615,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
 									"vintage_lines.line": -1
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 13,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/SignUp.js",
+							"buffer": 3,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_be/sites/backend/routes/api.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1753,
+								"buffer_size": 6744,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										545,
-										545
+										2406,
+										2406
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 155,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 378.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Job Choice/jobchoice2_fe/src/screens/client/billing/Billing.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 6241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4215,
+										4215
 									]
 								],
 								"settings":
 								{
 									"line_numbers": false,
 									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": 19,
-									"vintage_lines.lines": 83,
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 202,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3402.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/montesclaros.vvs/Desktop/hello.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 78,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										77,
+										77
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 10,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 5,
 							"type": "text"
-						},
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
 						{
-							"buffer": 10,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Screens/SignUp/components/SignUpForm.js",
+							"buffer": 6,
+							"file": "/C/Users/montesclaros.vvs/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1641,
+								"buffer_size": 712,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										262,
-										262
+										211,
+										211
 									]
 								],
 								"settings":
 								{
+									"edit_settings_other_view_id": 82,
+									"edit_settings_view": "user",
 									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
 									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": 6,
-									"vintage_lines.lines": 67,
-									"vintage_lines.mode": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/src/Utils/EndPoints/usePost.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 713,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										52,
-										52
-									]
-								],
-								"settings":
-								{
-									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"vintage_lines.line": 1,
-									"vintage_lines.lines": 29,
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 28,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
@@ -2054,37 +1883,168 @@
 							"type": "text"
 						},
 						{
-							"buffer": 12,
-							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/synergy_fe/node_modules/lodash/_compareAscending.js",
+							"buffer": 7,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/UserService.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1343,
+								"buffer_size": 3861,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1343,
-										1343
+										2739,
+										2739
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage_lines.line": 107,
+									"vintage_lines.lines": 157,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2520.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/vendor/phpspec/prophecy/src/Prophecy/Util/StringUtil.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2723,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": -1
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 0,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/routes/api.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1489,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										178,
+										178
+									]
+								],
+								"settings":
+								{
+									"history_list_is_closing": true,
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"vintage_lines.line": -1,
+									"vintage_lines.lines": 39,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Services/TokenService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2967,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1036,
+										1036
 									]
 								],
 								"settings":
 								{
 									"line_numbers": false,
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false,
 									"vintage_lines.line": -1,
-									"vintage_lines.lines": 41,
+									"vintage_lines.lines": 114,
 									"vintage_lines.mode": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 135.0,
+								"translation.y": 205.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Users/montesclaros.vvs/Desktop/Work/Projects/Synergy/sc_rsvn/Synergy_be/app/Mail/Token/RegisterEmail/NewUserNotification.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 813,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										516,
+										516
+									]
+								],
+								"settings":
+								{
+									"line_numbers": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"vintage_lines.line": 25,
+									"vintage_lines.lines": 40,
+									"vintage_lines.mode": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
 							"type": "text"
 						}
 					]
@@ -2133,7 +2093,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1013,130,130,1587",
+			"position": "0,2,3,-32000,-32000,-1,-1,1013,130,130,1587",
 			"project": "",
 			"replace":
 			{
@@ -2147,8 +2107,92 @@
 				"selected_items":
 				[
 					[
+						"NewUserNotification",
+						"sc_rsvn\\Synergy_be\\app\\Mail\\Token\\RegisterEmail\\NewUserNotification.php"
+					],
+					[
+						"tokenser",
+						"sc_rsvn\\Synergy_be\\app\\Services\\TokenService.php"
+					],
+					[
+						"jobchoapi",
+						"jobchoice2_be\\sites\\backend\\routes\\api.php"
+					],
+					[
+						"joaou",
+						"jobchoice2_be\\sites\\backend\\vendor\\sebastian\\diff\\src\\Output\\AbstractChunkOutputBuilder.php"
+					],
+					[
+						"useseeder",
+						"sc_rsvn\\Synergy_be\\database\\seeds\\UserTableSeeder.php"
+					],
+					[
 						"api",
 						"Synergy_be\\routes\\api.php"
+					],
+					[
+						"singup",
+						"Synergy_be\\vendor\\phpspec\\prophecy\\src\\Prophecy\\Util\\StringUtil.php"
+					],
+					[
+						"userser",
+						"Synergy_be\\app\\Services\\UserService.php"
+					],
+					[
+						"help",
+						"sites\\backend\\app\\helpers.php"
+					],
+					[
+						"apphelper",
+						"sc_rsvn\\Synergy_be\\app\\helpers.php"
+					],
+					[
+						"helper",
+						"jobchoice2_be\\sites\\backend\\vendor\\beyondcode\\laravel-dump-server\\helpers.php"
+					],
+					[
+						"helpers",
+						"sc_rsvn\\Synergy_be\\vendor\\symfony\\console\\Helper\\HelperSet.php"
+					],
+					[
+						"heloer",
+						"sc_rsvn\\synergy_fe\\node_modules\\@babel\\runtime\\helpers\\readOnlyError.js"
+					],
+					[
+						"regisema",
+						"Synergy_be\\app\\Http\\Requests\\Token\\RegisterEmail.php"
+					],
+					[
+						"regisaccou",
+						"Synergy_be\\app\\Http\\Requests\\User\\RegisterAccount.php"
+					],
+					[
+						"regisform",
+						"synergy_fe\\src\\Screens\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
+					],
+					[
+						"usrser",
+						"Synergy_be\\app\\Services\\UserService.php"
+					],
+					[
+						"usercotn",
+						"Synergy_be\\vendor\\ramsey\\uuid\\src\\Converter\\NumberConverterInterface.php"
+					],
+					[
+						"mst_shop_week_times",
+						"Synergy_be\\database\\migrations\\2019_09_11_074726_create_mst_shop_week_times_table.php"
+					],
+					[
+						"mst_shop_times",
+						"Synergy_be\\database\\migrations\\2019_09_11_063615_create_mst_shop_times_table.php"
+					],
+					[
+						"migratable",
+						"sites\\backend\\database\\migrations\\2019_01_09_034504_create_tokens_table.php"
+					],
+					[
+						"",
+						"synergy_fe\\src\\Screens\\SignUp\\components\\SignUpForm.js"
 					],
 					[
 						"handler.php",
@@ -2235,10 +2279,6 @@
 						"synergy_fe\\src\\Utils\\FormHandlers\\DatePicker.js"
 					],
 					[
-						"",
-						"src\\Component\\TopPage\\UserName\\UserName.js"
-					],
-					[
 						"getr",
 						"node_modules\\loader-utils\\lib\\getRemainingRequest.js"
 					],
@@ -2296,10 +2336,6 @@
 					],
 					[
 						"regisf",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"regisform",
 						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
 					],
 					[
@@ -2503,10 +2539,6 @@
 						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetail.js"
 					],
 					[
-						"singup",
-						"src\\Component\\SignUp\\SignUp.js"
-					],
-					[
 						"singupform",
 						"src\\Component\\SignUp\\SignUpForm\\SignUpForm.js"
 					],
@@ -2585,78 +2617,6 @@
 					[
 						"signupfom",
 						"src\\Component\\SignUp\\SignUpForm\\SignUpForm.js"
-					],
-					[
-						"token",
-						"app\\Http\\Controllers\\API\\TokenController.php"
-					],
-					[
-						"RegisterAccount",
-						"app\\Http\\Requests\\User\\RegisterAccount.php"
-					],
-					[
-						"usercon",
-						"app\\Http\\Controllers\\API\\UserController.php"
-					],
-					[
-						"tokencon",
-						"app\\Http\\Controllers\\API\\TokenController.php"
-					],
-					[
-						"tokenrepo",
-						"app\\Http\\Repositories\\TokenRepository.php"
-					],
-					[
-						"tokenser",
-						"app\\Services\\TokenService.php"
-					],
-					[
-						"handle",
-						"app\\Exceptions\\Handler.php"
-					],
-					[
-						"tokencont",
-						"app\\Http\\Controllers\\API\\TokenController.php"
-					],
-					[
-						"userserv",
-						"app\\Services\\UserService.php"
-					],
-					[
-						"modeluser",
-						"app\\Models\\User.php"
-					],
-					[
-						"sig",
-						"src\\Component\\SignUp\\SignUp.js"
-					],
-					[
-						"regisfrom",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationFormVerify\\RegistrationFormVerify.js"
-					],
-					[
-						"regist",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"handleform",
-						"src\\Utils\\FormHandlers\\HandleFormData.js"
-					],
-					[
-						"formda\\",
-						"node_modules\\form-data\\License"
-					],
-					[
-						"regisformn",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetailForm\\RegistrationDetailForm.js"
-					],
-					[
-						"registveri",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationFormVerify\\RegistrationFormVerify.js"
-					],
-					[
-						"regisstrat",
-						"src\\Component\\Registration\\RegistrationDetail\\RegistrationDetail.js"
 					]
 				],
 				"width": 0.0
@@ -2685,14 +2645,14 @@
 			},
 			"show_minimap": true,
 			"show_open_files": false,
-			"show_tabs": false,
+			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 272.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 90,
+			"window_id": 100,
 			"workspace_name": ""
 		}
 	],
